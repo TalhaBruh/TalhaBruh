@@ -24,13 +24,13 @@
   <h3>You will get your Business FrontEnd on:</h3>
   <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,nuxtjs,nestjs,tailwind,vuejs,angular,bootstrap,jquery,threejs">
 
-  <h3>Your business Backend will be in:</h3>
+  <h3>Your Web Applicaton Back-end will be in:</h3>
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,flask,fastapi,rust,dotnet,spring,java">
 
   <h3>I will Integrate your Database in:</h3>
   <img src="https://skillicons.dev/icons?i=postgres,mongo,firebase,mysql,sqlite,anaconda,graphql,postman">
 
-  <h3>Cloud Integrations:</h3>
+  <h3>Your Buisness will be deployed in these clouds:</h3>
   <img src="https://skillicons.dev/icons?i=aws,heroku,azure,kubernetes,docker,jenkins,vercel,cloudflare,netlify">
 
   <h3>I use these for AI Automtion:</h3>
