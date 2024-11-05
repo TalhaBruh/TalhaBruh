@@ -27,8 +27,7 @@
   <img src="https://skillicons.dev/icons?i=python,typescript,nextjs,nodejs,react,express,flask,fastapi,nuxtjs,nestjs,tailwind,vuejs,angular,rust,php,laravel,dotnet,wordpress">
 
   <h3>Databases</h3>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,mysql,sqlite">
-  <!-- Note: chromadb and vectordb icons might not be available on Skillicons -->
+  <img src="https://skillicons.dev/icons?i=postgres,mongo,firebase,mysql,sqlite">
 
   <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=github,git,blender,vscode,visualstudio,arduino,cmake">
