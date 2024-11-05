@@ -23,13 +23,13 @@
 </div>
 
 <div align="center">
-  <h3>Programming Languages & Frameworks</h3>
+  <h3>Programming Languages & Frameworks I have worked on:</h3>
   <img src="https://skillicons.dev/icons?i=python,typescript,nextjs,nodejs,react,express,flask,fastapi,nuxtjs,nestjs,tailwind,vuejs,angular,rust,php,laravel,dotnet,wordpress">
-
-  <h3>Databases</h3>
+  <h3>Databases I haved Integrated:</h3>
   <img src="https://skillicons.dev/icons?i=postgres,mongo,firebase,mysql,sqlite">
-
-  <h3>Tools</h3>
+  <h3>Cloud Integrations:</h3>
+  <img src="https://skillicons.dev/icons?i=aws,heroku,azure,kubernetes,docker">
+  <h3>Tools I have used for autoamtions:</h3>
   <img src="https://skillicons.dev/icons?i=github,git,blender,vscode,visualstudio,arduino,cmake">
 </div>
 
