@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,nuxtjs,nestjs,tailwind,vuejs,angular,bootstrap,jquery,threejs">
 
   <h3>Your business Backend will be in:</h3>
-  <img src="https://skillicons.dev/icons?i=python,django,node,flask,fastapi,rust,.net,spring,java">
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,flask,fastapi,rust,dotnet,spring,java">
 
   <h3>I will Integrate your Database in:</h3>
   <img src="https://skillicons.dev/icons?i=postgres,mongo,firebase,mysql,sqlite,anaconda,graphql,postman">
