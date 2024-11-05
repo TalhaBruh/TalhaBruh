@@ -5,7 +5,7 @@
 #
 
 <div align="center">
-<h2>My Github Contributions</h2>
+<h1>My Github Contributions</h1>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TalhaBruh/Github-ReadME/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/TalhaBruh/Github-ReadME/blob/output/github-contribution-grid-snake.svg" />
