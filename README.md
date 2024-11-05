@@ -1,6 +1,8 @@
 # You'll be getting over 3+ years of Python & Django expertise on the table. Exceptionally skilled in building websites using React/NextJS, with Django, FastAPI or Flask as Backend.<h1> 
 
-## I’ve developed cloud-based applications featuring modules such as PoS systems, integrated chatboxes, search and invoice management, user management, metrics tracking, payment integrations, cloud integrations, API integrations, and more.</h2>
+## I’ve developed cloud-based applications featuring modules such as PoS systems, integrated chatboxes, search and invoice management, user management, metrics tracking, payment integrations, cloud integrations, API integrations, and more.
+
+#
 
 <div align="center">
   <picture>
