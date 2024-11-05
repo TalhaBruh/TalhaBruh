@@ -24,7 +24,7 @@
 
 <div align=center>
   <h3>Programing Langs</h3>
-    src="https://skillicons.dev/icons?i=python,typescript,nextjs,nodejs,react,express,flask,fastapi,langchain,devops">
+    src="https://skillicons.dev/icons?i=python,typescript,nextjs,nodejs,react,express,flask,fastapi">
   <h3>Databases</h3>
    <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,sqlite">
   <h3>Tools</h3>
