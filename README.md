@@ -1,24 +1,24 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TalhaBruh/SyedTalhaHussain/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/TalhaBruh/SyedTalhaHussain/blob/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="github-snake.svg" />
   </picture></br>
 </div>
 
 <div align=center> 
   <h2>💖Stats💖</h2>
-  <img height=150px src="https://streak-stats.demolab.com?user=daynlight&theme=algolia"></br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daynlight&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daynlight&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daynlight&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daynlight&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daynlight&theme=algolia">
+  <img height=150px src="https://streak-stats.demolab.com?user=TalhaBruh&theme=algolia"></br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalhaBruh&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TalhaBruh&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TalhaBruh&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TalhaBruh&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TalhaBruh&theme=algolia">
 </div>
 
 <div align=center>
   <h2>Trophies👑</h2>
-  <img src = "https://github-profile-trophy.vercel.app/?username=daynlight&theme=algolia&column=-1&rank=-?">
+  <img src = "https://github-profile-trophy.vercel.app/?username=TalhaBruh&theme=algolia&column=-1&rank=-?">
 </div>
 
 <div align=center>
