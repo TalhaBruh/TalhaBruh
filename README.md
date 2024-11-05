@@ -22,13 +22,16 @@
   <img src = "https://github-profile-trophy.vercel.app/?username=TalhaBruh&theme=algolia&column=-1&rank=-?">
 </div>
 
-<div align=center>
-  <h3>Programing Langs</h3>
-    src="https://skillicons.dev/icons?i=python,typescript,nextjs,nodejs,react,express,flask,fastapi">
+<div align="center">
+  <h3>Programming Languages & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=python,typescript,nextjs,nodejs,react,express,flask,fastapi,nuxtjs,nestjs,tailwind,vuejs,angular,rust">
+
   <h3>Databases</h3>
-   <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,sqlite">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,sqlite">
+
   <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=github,git,blender,vscode,visualstudio,arduino,cmake">
+  <img src="https://skillicons.dev/icons?i=github,git,blender,vscode,visualstudio,arduino,cmake">
 </div>
+
 
 
