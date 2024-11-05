@@ -24,7 +24,7 @@
 
 <div align="center">
   <h3>Programming Languages & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=python,typescript,nextjs,nodejs,react,express,flask,fastapi,nuxtjs,nestjs,tailwind,vuejs,angular,rust,golang,go">
+  <img src="https://skillicons.dev/icons?i=python,typescript,nextjs,nodejs,react,express,flask,fastapi,nuxtjs,nestjs,tailwind,vuejs,angular,rust,golang">
 
   <h3>Databases</h3>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,sqlite">
