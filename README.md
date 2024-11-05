@@ -1,3 +1,7 @@
+<div>
+</h2>You'll be getting over 3+ years of Python & Django expertise on the table. Exceptionally skilled in building websites using React/Vue JS, Next JS with Django, FastAPI or Flask as Backend. I’ve developed cloud-based applications featuring modules such as PoS systems, integrated chatboxes, search and invoice management, user management, metrics tracking, payment integrations, cloud integrations, API integrations, and more.</h2>
+<div>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TalhaBruh/Github-ReadME/blob/output/github-contribution-grid-snake-dark.svg" />
