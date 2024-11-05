@@ -24,10 +24,11 @@
 
 <div align="center">
   <h3>Programming Languages & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=python,typescript,nextjs,nodejs,react,express,flask,fastapi,nuxtjs,nestjs,tailwind,vuejs,angular,rust,golang">
+  <img src="https://skillicons.dev/icons?i=python,typescript,nextjs,nodejs,react,express,flask,fastapi,nuxtjs,nestjs,tailwind,vuejs,angular,rust,php,laravel,dotnet,wordpress">
 
   <h3>Databases</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,sqlite">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,mysql,sqlite">
+  <!-- Note: chromadb and vectordb icons might not be available on Skillicons -->
 
   <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=github,git,blender,vscode,visualstudio,arduino,cmake">
