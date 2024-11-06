@@ -1,9 +1,6 @@
 # You'll be getting over 3+ years of Python & Django expertise on the table. Exceptionally skilled in building websites using React/NextJS, with Django, FastAPI or Flask as Backend.<h1> 
-
 ## From developing PoS systems, Integrated chatboxes, Custom Invoice & User management, Metrics tracking, Payment integrations, Cloud deployment & much more.
-
 #
-
 <div align="center">
 <h1>My Github Contributions</h1>
   <picture>
@@ -12,7 +9,6 @@
     <img alt="github-snake" src="https://github.com/TalhaBruh/Github-ReadME/blob/output/github-contribution-grid-snake.svg" />
   </picture></br>
 </div>
-
 
 <div align=center> 
   <h2>Stats</h2>
