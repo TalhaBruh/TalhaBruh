@@ -13,7 +13,6 @@
 <div align=center> 
   <h2>Stats</h2>
   <img height=150px src="https://streak-stats.demolab.com?user=TalhaBruh&theme=algolia"></br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalhaBruh&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TalhaBruh&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TalhaBruh&theme=algolia">
 </div>
