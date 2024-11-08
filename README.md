@@ -1,5 +1,6 @@
 # You'll be getting over 3+ years of Python & Django expertise on the table. Exceptionally skilled in building websites using React/NextJS, with Django, FastAPI or Flask as Backend.<h1> 
 ## From developing PoS systems, Integrated chatboxes, Custom Invoice & User management, Metrics tracking, Payment integrations, Cloud deployment & much more.
+#
 <div align="center">
 <h1>My Github Contributions</h1>
   <picture>
@@ -11,7 +12,7 @@
 
 <div align=center> 
   <h2>Stats</h2>
-  <img height=150px src="https://streak-stats.demolab.com?user=TalhaBruh&theme=algolia"></br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalhaBruh&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TalhaBruh&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TalhaBruh&theme=algolia">
 </div>
