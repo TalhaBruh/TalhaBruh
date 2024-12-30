@@ -17,13 +17,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TalhaBruh&theme=algolia">
 </div>
 
-<div align=center>
-  <h2>Trophies👑</h2>
-  <img src = "https://github-profile-trophy.vercel.app/?username=TalhaBruh&theme=algolia&column=-1&rank=-?">
-</div>
-
 <div align="center">
-  <h3>You will get your Business FrontEnd on:</h3>
+  <h3>Your business will have a stunning, user-focused frontend that engages customers and enhances your brand. I will make sure your digital presence will stand out in the marketplace.:</h3>
   <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind">
 
   <h3>Your Web Applicaton Back-end will be in:</h3>
