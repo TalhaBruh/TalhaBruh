@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=postgres,mongo,firebase,mysql,sqlite">
 
   <h3>Your Buisness will be deployed in these clouds:</h3>
-  <img src="https://skillicons.dev/icons?i=aws,heroku,azure,kubernetes,docker,jenkins,vercel,cloudflare,netlify">
+  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,vercel,netlify">
 
   <h3>I use these for AI Automtion:</h3>
   <img src="https://skillicons.dev/icons?i=pytorch,redux,tensorflow,selenium,powershell,terraform">
