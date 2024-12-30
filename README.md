@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind">
 
   <h3>Your Web Applicaton Back-end will be in:</h3>
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,flask,fastapi,rust,dotnet,spring,java">
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,flask,fastapi">
 
   <h3>I will Integrate your Database in:</h3>
   <img src="https://skillicons.dev/icons?i=postgres,mongo,firebase,mysql,sqlite,anaconda,graphql,postman">
