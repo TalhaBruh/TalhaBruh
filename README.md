@@ -36,10 +36,10 @@
   <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,vercel,netlify">
 
   <h3>I use these for AI Automtion:</h3>
-  <img src="https://skillicons.dev/icons?i=pytorch,redux,tensorflow,selenium,powershell,terraform">
+  <img src="https://skillicons.dev/icons?i=pytorch,redux,tensorflow,selenium">
 
   <h3>Other tools I often use:</h3>
-  <img src="https://skillicons.dev/icons?i=github,git,githubactions,gitlab,vscode,visualstudio,linux,kali,notion,npm,ubuntu,webflow">
+  <img src="https://skillicons.dev/icons?i=gitlab,vscode,visualstudio,linux,webflow">
 
 </div>
 
