@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,flask,fastapi">
 
   <h3>I will Integrate your Database in:</h3>
-  <img src="https://skillicons.dev/icons?i=postgres,mongo,firebase,mysql,sqlite,anaconda,graphql,postman">
+  <img src="https://skillicons.dev/icons?i=postgres,mongo,firebase,mysql,sqlite">
 
   <h3>Your Buisness will be deployed in these clouds:</h3>
   <img src="https://skillicons.dev/icons?i=aws,heroku,azure,kubernetes,docker,jenkins,vercel,cloudflare,netlify">
