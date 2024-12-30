@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <h3>Your business will have a stunning, user-focused frontend that engages customers and enhances your brand using::</h3>
+  <h3>Your business will have a stunning, user-focused frontend that engages customers and enhances your brand using:</h3>
   <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind">
 
   <h3>I’ll ensure your systems perform flawlessly, even under heavy demand. Stay ahead of your competitors with a backend that’s optimized using:</h3>
