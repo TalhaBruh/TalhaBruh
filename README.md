@@ -24,7 +24,7 @@
 
 <div align="center">
   <h3>You will get your Business FrontEnd on:</h3>
-  <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,nuxtjs,nestjs,tailwind,vuejs,angular,bootstrap,jquery,threejs">
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind">
 
   <h3>Your Web Applicaton Back-end will be in:</h3>
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,flask,fastapi,rust,dotnet,spring,java">
