@@ -1,5 +1,5 @@
-# You'll be getting over 3+ years of Python & Django expertise on the table. Exceptionally skilled in building websites using React/NextJS, with Django, FastAPI or Flask as Backend.<h1> 
-## From developing PoS systems, Integrated chatboxes, Custom Invoice & User management, Metrics tracking, Payment integrations, Cloud deployment & much more.
+# Helping Non-Tech Founders Build Websites & MVPs <h1> 
+## You'll be getting over 3+ years of Python & Django expertise on the table. Exceptionally skilled in building websites using React/NextJS, with Django, FastAPI or Flask as Backend.
 #
 <div align="center">
 <h1>My Github Contributions</h1>
