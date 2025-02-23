@@ -1,4 +1,4 @@
-# Helping Non-Tech Founders Build Websites & MVPs <h1> 
+#🚀 Helping Non-Tech Founders Build Websites & MVPs <h1> 
 ## You'll be getting over 3+ years of Python & Django expertise on the table. Exceptionally skilled in building websites using React/NextJS, with Django, FastAPI or Flask as Backend.
 #
 <div align="center">
@@ -17,26 +17,38 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TalhaBruh&theme=algolia">
 </div>
 
-<div align="center">
-  <h3>Your business will have a stunning, user-focused frontend that engages customers and enhances your brand using:</h3>
+### 🎨 Frontend Development
+Creating **engaging, user-centric interfaces** with:
+<p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind">
+</p>
 
-  <h3>I’ll ensure your systems perform flawlessly, even under heavy demand. Stay ahead of your competitors with a backend that’s optimized using:</h3>
+### ⚙️ Backend Development
+Optimizing systems for **scalability & performance** using:
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,flask,fastapi">
+</p>
 
-  <h3>Your data will be seamlessly managed & secure, by my DATABASE Expertise using:</h3>
+### 🛠️ Database Management
+Ensuring **secure & efficient** data handling with:
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongo,firebase,mysql,sqlite">
+</p>
 
-  <h3>I will deploy your business on cloud platforms that guarantee speed, uptime, and scalability anywhere, anytime using: </h3>
+### ☁️ Cloud & DevOps
+Deploying for **high availability & reliability** on:
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,vercel,netlify">
+</p>
 
-  <h3>Boost your business operations with AI-powered automation to save time, reduce errors, and improve productivity using:</h3>
+### 🤖 AI & Automation
+Boosting efficiency with **AI-powered solutions**:
+<p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,redux,tensorflow,selenium">
+</p>
 
-  <h3>I will equip your business with the best tools and technologies, ensuring that you stay ahead of your competitors using:</h3>
+### 🛠️ Developer Tools & Workflow
+Equipped with the **best tools** for seamless development:
+<p align="center">
   <img src="https://skillicons.dev/icons?i=gitlab,vscode,visualstudio,linux,webflow">
-
-</div>
-
-
-
+</p>
