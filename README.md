@@ -17,38 +17,48 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TalhaBruh&theme=algolia">
 </div>
 
-### 🎨 Frontend Development
-Creating **engaging, user-centric interfaces** with:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind">
+### 🎨 Frontend Development  
+**Creating engaging, user-centric interfaces with:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind" height="40">
 </p>
 
-### ⚙️ Backend Development
-Optimizing systems for **scalability & performance** using:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,flask,fastapi">
+---
+
+### ⚙️ Backend Development  
+**Optimizing systems for scalability & performance using:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,flask,fastapi" height="40">
 </p>
 
-### 🛠️ Database Management
-Ensuring **secure & efficient** data handling with:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongo,firebase,mysql,sqlite">
+---
+
+### 🗄️ Database Management  
+**Ensuring secure & efficient data handling with:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongo,firebase,mysql,sqlite" height="40">
 </p>
 
-### ☁️ Cloud & DevOps
-Deploying for **high availability & reliability** on:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,vercel,netlify">
+---
+
+### ☁️ Cloud & DevOps  
+**Deploying for high availability & reliability on:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,vercel,netlify" height="40">
 </p>
 
-### 🤖 AI & Automation
-Boosting efficiency with **AI-powered solutions**:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,redux,tensorflow,selenium">
+---
+
+### 🤖 AI & Automation  
+**Enhancing operations with AI-powered automation using:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,redux,tensorflow,selenium" height="40">
 </p>
 
-### 🛠️ Developer Tools & Workflow
-Equipped with the **best tools** for seamless development:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gitlab,vscode,visualstudio,linux,webflow">
+---
+
+### 🛠 Development Tools  
+**Equipping your business with the best tools & technologies:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gitlab,vscode,visualstudio,linux,webflow" height="40">
 </p>
