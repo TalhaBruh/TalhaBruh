@@ -54,11 +54,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,redux,tensorflow,selenium" height="40">
 </p>
-
----
-
-### 🛠 Development Tools  
-**Equipping your business with the best tools & technologies:**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=gitlab,vscode,visualstudio,linux,webflow" height="40">
-</p>
