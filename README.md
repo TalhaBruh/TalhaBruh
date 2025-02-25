@@ -1,4 +1,4 @@
-#🚀 Helping Non-Tech Founders Build Websites & MVPs <h1> 
+<h1> 🚀 Helping Non-Tech Founders Build Websites & MVPs <h1> 
 ## You'll be getting over 3+ years of Python & Django expertise on the table. Exceptionally skilled in building websites using React/NextJS, with Django, FastAPI or Flask as Backend.
 #
 <div align="center">
