@@ -21,125 +21,108 @@
   <table>
     <tr>
       <td align="center">
-        <h4>Project Name 1</h4>
+        <h4>Sciencebridge</h4>
         <a href="https://www.youtube.com/watch?v=Z11_ceId5HE">
-          <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Project 1">
+          <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Sciencebridge">
         </a>
         <p>
           <img src="https://skillicons.dev/icons?i=react" height="40">
           <img src="https://skillicons.dev/icons?i=nextjs" height="40">
           <img src="https://skillicons.dev/icons?i=tailwind" height="40">
         </p>
-        <p><small>Deployed Link: <a href="#">example.com</a></small></p>
-        <p><small>Generating revenue: $24,750</small></p>
+        <p><small>Generated revenue in (2025): $24,750</small></p>
       </td>
       <td align="center">
-        <h4>Project Name 2</h4>
+        <h4>Linen Track</h4>
         <a href="https://www.youtube.com/watch?v=Z11_ceId5HE">
-          <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Project 2">
+          <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Linen Track">
         </a>
         <p>
           <img src="https://skillicons.dev/icons?i=django" height="40">
           <img src="https://skillicons.dev/icons?i=python" height="40">
           <img src="https://skillicons.dev/icons?i=postgres" height="40">
         </p>
-        <p><small>Deployed Link: <a href="#">example.com</a></small></p>
-        <p><small>Generating revenue: €18,500</small></p>
+        <p><small>Generated revenue in (2024): €18,500</small></p>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <h4>Project Name 3</h4>
+        <h4>Equity Bound</h4>
         <a href="https://www.youtube.com/watch?v=Z11_ceId5HE">
-          <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Project 3">
+          <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Equity Bound">
         </a>
         <p>
           <img src="https://skillicons.dev/icons?i=fastapi" height="40">
           <img src="https://skillicons.dev/icons?i=typescript" height="40">
           <img src="https://skillicons.dev/icons?i=mongodb" height="40">
         </p>
-        <p><small>Deployed Link: <a href="#">example.com</a></small></p>
-        <p><small>Generating revenue: $42,300</small></p>
+        <p><small>Generated revenue in (2025): $42,300</small></p>
       </td>
       <td align="center">
-        <h4>Project Name 4</h4>
+        <h4>NMBLIQ</h4>
         <a href="https://www.youtube.com/watch?v=Z11_ceId5HE">
-          <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Project 4">
+          <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="NMBLIQ">
         </a>
         <p>
           <img src="https://skillicons.dev/icons?i=nodejs" height="40">
           <img src="https://skillicons.dev/icons?i=express" height="40">
           <img src="https://skillicons.dev/icons?i=firebase" height="40">
         </p>
-        <p><small>Deployed Link: <a href="#">example.com</a></small></p>
-        <p><small>Generating revenue: $15,680</small></p>
+        <p><small>Generated revenue in (2024): $15,680</small></p>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <h4>Project Name 5</h4>
+        <h4>Reddit AI-Marketing Bot Tool</h4>
         <a href="https://www.youtube.com/watch?v=Z11_ceId5HE">
-          <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Project 5">
+          <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Reddit AI-Marketing Bot Tool">
         </a>
         <p>
           <img src="https://skillicons.dev/icons?i=react" height="40">
           <img src="https://skillicons.dev/icons?i=flask" height="40">
           <img src="https://skillicons.dev/icons?i=aws" height="40">
         </p>
-        <p><small>Deployed Link: <a href="#">example.com</a></small></p>
-        <p><small>Generating revenue: $31,250</small></p>
+        <p><small>Generated revenue in (2023): $31,250</small></p>
       </td>
       <td align="center">
-        <h4>Project Name 6</h4>
+        <h4>Loyal Pets Health</h4>
         <a href="https://www.youtube.com/watch?v=Z11_ceId5HE">
-          <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Project 6">
+          <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Loyal Pets Health">
         </a>
         <p>
           <img src="https://skillicons.dev/icons?i=nextjs" height="40">
           <img src="https://skillicons.dev/icons?i=tailwind" height="40">
           <img src="https://skillicons.dev/icons?i=vercel" height="40">
         </p>
-        <p><small>Deployed Link: <a href="#">example.com</a></small></p>
-        <p><small>Generating revenue: $19,875</small></p>
+        <p><small>Generated revenue in (2025): $19,875</small></p>
       </td>
     </tr>
   </table>
 </div>
 
-### 🎨 Frontend Development  
-**Creating engaging, user-centric interfaces with:**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind" height="40">
-</p>
-
----
-
-### ⚙️ Backend Development  
-**Optimizing systems for scalability & performance using:**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,flask,fastapi" height="40">
-</p>
-
----
-
-### 🗄️ Database Management  
-**Ensuring secure & efficient data handling with:**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongo,firebase,mysql,sqlite" height="40">
-</p>
-
----
-
-### ☁️ Cloud & DevOps  
-**Deploying for high availability & reliability on:**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,vercel,netlify" height="40">
-</p>
-
----
-
-### 🤖 AI & Automation  
-**Enhancing operations with AI-powered automation using:**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,redux,tensorflow,selenium" height="40">
-</p>
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <div style="flex: 1; padding-right: 20px; text-align: right; border-right: 1px solid #e0e0e0;">
+    <div>
+      <h3>🎨 Frontend Development</h3>
+      <p>Creating engaging, user-centric interfaces</p>
+    </div>
+    <div>
+      <h3>⚙️ Backend Development</h3>
+      <p>Optimizing systems for scalability & performance</p>
+    </div>
+    <div>
+      <h3>🗄️ Database Management</h3>
+      <p>Ensuring secure & efficient data handling</p>
+    </div>
+  </div>
+  <div style="flex: 1; padding-left: 20px; text-align: left;">
+    <div>
+      <h3>☁️ Cloud & DevOps</h3>
+      <p>Deploying for high availability & reliability</p>
+    </div>
+    <div>
+      <h3>🤖 AI & Automation</h3>
+      <p>Enhancing operations with AI-powered automation</p>
+    </div>
+  </div>
+</div>
