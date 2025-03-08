@@ -1,6 +1,6 @@
 # 🚀 Helping Non-Tech Founders Build Websites & MVPs
 ## You'll be getting over 3+ years of Python & Django expertise on the table. Exceptionally skilled in building websites using React/NextJS, with Django, FastAPI or Flask as Backend.
-#
+
 <div align="center">
 <h1>My Github Contributions</h1>
   <picture>
@@ -13,8 +13,6 @@
 <div align=center> 
   <h2>MY DEVELOPMENT STATS</h2>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalhaBruh&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TalhaBruh&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TalhaBruh&theme=algolia">
 </div>
 
 ## 📺 Featured Projects
@@ -28,12 +26,12 @@
           <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Project 1">
         </a>
         <p>
-          <img src="https://skillicons.dev/icons?i=react" height="20">
-          <img src="https://skillicons.dev/icons?i=nextjs" height="20">
-          <img src="https://skillicons.dev/icons?i=tailwind" height="20">
+          <img src="https://skillicons.dev/icons?i=react" height="40">
+          <img src="https://skillicons.dev/icons?i=nextjs" height="40">
+          <img src="https://skillicons.dev/icons?i=tailwind" height="40">
         </p>
         <p><small>Deployed Link: <a href="#">example.com</a></small></p>
-        <p><small>Generating revenue: $XXX</small></p>
+        <p><small>Generating revenue: $24,750</small></p>
       </td>
       <td align="center">
         <h4>Project Name 2</h4>
@@ -41,12 +39,12 @@
           <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Project 2">
         </a>
         <p>
-          <img src="https://skillicons.dev/icons?i=django" height="20">
-          <img src="https://skillicons.dev/icons?i=python" height="20">
-          <img src="https://skillicons.dev/icons?i=postgres" height="20">
+          <img src="https://skillicons.dev/icons?i=django" height="40">
+          <img src="https://skillicons.dev/icons?i=python" height="40">
+          <img src="https://skillicons.dev/icons?i=postgres" height="40">
         </p>
         <p><small>Deployed Link: <a href="#">example.com</a></small></p>
-        <p><small>Generating revenue: $XXX</small></p>
+        <p><small>Generating revenue: €18,500</small></p>
       </td>
     </tr>
     <tr>
@@ -56,12 +54,12 @@
           <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Project 3">
         </a>
         <p>
-          <img src="https://skillicons.dev/icons?i=fastapi" height="20">
-          <img src="https://skillicons.dev/icons?i=typescript" height="20">
-          <img src="https://skillicons.dev/icons?i=mongodb" height="20">
+          <img src="https://skillicons.dev/icons?i=fastapi" height="40">
+          <img src="https://skillicons.dev/icons?i=typescript" height="40">
+          <img src="https://skillicons.dev/icons?i=mongodb" height="40">
         </p>
         <p><small>Deployed Link: <a href="#">example.com</a></small></p>
-        <p><small>Generating revenue: $XXX</small></p>
+        <p><small>Generating revenue: $42,300</small></p>
       </td>
       <td align="center">
         <h4>Project Name 4</h4>
@@ -69,12 +67,12 @@
           <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Project 4">
         </a>
         <p>
-          <img src="https://skillicons.dev/icons?i=nodejs" height="20">
-          <img src="https://skillicons.dev/icons?i=express" height="20">
-          <img src="https://skillicons.dev/icons?i=firebase" height="20">
+          <img src="https://skillicons.dev/icons?i=nodejs" height="40">
+          <img src="https://skillicons.dev/icons?i=express" height="40">
+          <img src="https://skillicons.dev/icons?i=firebase" height="40">
         </p>
         <p><small>Deployed Link: <a href="#">example.com</a></small></p>
-        <p><small>Generating revenue: $XXX</small></p>
+        <p><small>Generating revenue: $15,680</small></p>
       </td>
     </tr>
     <tr>
@@ -84,12 +82,12 @@
           <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Project 5">
         </a>
         <p>
-          <img src="https://skillicons.dev/icons?i=react" height="20">
-          <img src="https://skillicons.dev/icons?i=flask" height="20">
-          <img src="https://skillicons.dev/icons?i=aws" height="20">
+          <img src="https://skillicons.dev/icons?i=react" height="40">
+          <img src="https://skillicons.dev/icons?i=flask" height="40">
+          <img src="https://skillicons.dev/icons?i=aws" height="40">
         </p>
         <p><small>Deployed Link: <a href="#">example.com</a></small></p>
-        <p><small>Generating revenue: $XXX</small></p>
+        <p><small>Generating revenue: $31,250</small></p>
       </td>
       <td align="center">
         <h4>Project Name 6</h4>
@@ -97,12 +95,12 @@
           <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Project 6">
         </a>
         <p>
-          <img src="https://skillicons.dev/icons?i=nextjs" height="20">
-          <img src="https://skillicons.dev/icons?i=tailwind" height="20">
-          <img src="https://skillicons.dev/icons?i=vercel" height="20">
+          <img src="https://skillicons.dev/icons?i=nextjs" height="40">
+          <img src="https://skillicons.dev/icons?i=tailwind" height="40">
+          <img src="https://skillicons.dev/icons?i=vercel" height="40">
         </p>
         <p><small>Deployed Link: <a href="#">example.com</a></small></p>
-        <p><small>Generating revenue: $XXX</small></p>
+        <p><small>Generating revenue: $19,875</small></p>
       </td>
     </tr>
   </table>
