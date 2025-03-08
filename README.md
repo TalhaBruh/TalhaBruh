@@ -22,7 +22,7 @@
     <tr>
       <td align="center">
         <h4>Sciencebridge</h4>
-        <img src="/api/placeholder/480/320" width="480" height="320" alt="Sciencebridge">
+        <img src="https://github.com/user-attachments/assets/f95a3fa7-f02c-4ac4-b958-0d90afa724cc" width="480" height="320" alt="Sciencebridge">
         <p>
           <img src="https://skillicons.dev/icons?i=react" height="40">
           <img src="https://skillicons.dev/icons?i=nextjs" height="40">
@@ -32,7 +32,7 @@
       </td>
       <td align="center">
         <h4>Linen Track</h4>
-        <img src="/api/placeholder/480/320" width="480" height="320" alt="Linen Track">
+        <img src="https://github.com/user-attachments/assets/f95a3fa7-f02c-4ac4-b958-0d90afa724cc" width="480" height="320" alt="Linen Track">
         <p>
           <img src="https://skillicons.dev/icons?i=django" height="40">
           <img src="https://skillicons.dev/icons?i=python" height="40">
@@ -44,7 +44,7 @@
     <tr>
       <td align="center">
         <h4>Equity Bound</h4>
-        <img src="/api/placeholder/480/320" width="480" height="320" alt="Equity Bound">
+        <img src="https://github.com/user-attachments/assets/f95a3fa7-f02c-4ac4-b958-0d90afa724cc" width="480" height="320" alt="Equity Bound">
         <p>
           <img src="https://skillicons.dev/icons?i=fastapi" height="40">
           <img src="https://skillicons.dev/icons?i=typescript" height="40">
@@ -54,7 +54,7 @@
       </td>
       <td align="center">
         <h4>NMBLIQ</h4>
-        <img src="/api/placeholder/480/320" width="480" height="320" alt="NMBLIQ">
+        <img src="https://github.com/user-attachments/assets/f95a3fa7-f02c-4ac4-b958-0d90afa724cc" width="480" height="320" alt="NMBLIQ">
         <p>
           <img src="https://skillicons.dev/icons?i=nodejs" height="40">
           <img src="https://skillicons.dev/icons?i=express" height="40">
@@ -66,7 +66,7 @@
     <tr>
       <td align="center">
         <h4>Reddit AI-Marketing Bot Tool</h4>
-        <img src="/api/placeholder/480/320" width="480" height="320" alt="Reddit AI-Marketing Bot Tool">
+        <img src="https://github.com/user-attachments/assets/f95a3fa7-f02c-4ac4-b958-0d90afa724cc" width="480" height="320" alt="Reddit AI-Marketing Bot Tool">
         <p>
           <img src="https://skillicons.dev/icons?i=react" height="40">
           <img src="https://skillicons.dev/icons?i=flask" height="40">
@@ -76,7 +76,7 @@
       </td>
       <td align="center">
         <h4>Loyal Pets Health</h4>
-        <img src="/api/placeholder/480/320" width="480" height="320" alt="Loyal Pets Health">
+        <img src="https://github.com/user-attachments/assets/f95a3fa7-f02c-4ac4-b958-0d90afa724cc" width="480" height="320" alt="Loyal Pets Health">
         <p>
           <img src="https://skillicons.dev/icons?i=nextjs" height="40">
           <img src="https://skillicons.dev/icons?i=tailwind" height="40">
