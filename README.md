@@ -22,9 +22,7 @@
     <tr>
       <td align="center">
         <h4>Sciencebridge</h4>
-        <a href="https://www.youtube.com/watch?v=Z11_ceId5HE">
-          <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Sciencebridge">
-        </a>
+        <img src="/api/placeholder/480/320" width="480" height="320" alt="Sciencebridge">
         <p>
           <img src="https://skillicons.dev/icons?i=react" height="40">
           <img src="https://skillicons.dev/icons?i=nextjs" height="40">
@@ -34,9 +32,7 @@
       </td>
       <td align="center">
         <h4>Linen Track</h4>
-        <a href="https://www.youtube.com/watch?v=Z11_ceId5HE">
-          <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Linen Track">
-        </a>
+        <img src="/api/placeholder/480/320" width="480" height="320" alt="Linen Track">
         <p>
           <img src="https://skillicons.dev/icons?i=django" height="40">
           <img src="https://skillicons.dev/icons?i=python" height="40">
@@ -48,9 +44,7 @@
     <tr>
       <td align="center">
         <h4>Equity Bound</h4>
-        <a href="https://www.youtube.com/watch?v=Z11_ceId5HE">
-          <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Equity Bound">
-        </a>
+        <img src="/api/placeholder/480/320" width="480" height="320" alt="Equity Bound">
         <p>
           <img src="https://skillicons.dev/icons?i=fastapi" height="40">
           <img src="https://skillicons.dev/icons?i=typescript" height="40">
@@ -60,9 +54,7 @@
       </td>
       <td align="center">
         <h4>NMBLIQ</h4>
-        <a href="https://www.youtube.com/watch?v=Z11_ceId5HE">
-          <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="NMBLIQ">
-        </a>
+        <img src="/api/placeholder/480/320" width="480" height="320" alt="NMBLIQ">
         <p>
           <img src="https://skillicons.dev/icons?i=nodejs" height="40">
           <img src="https://skillicons.dev/icons?i=express" height="40">
@@ -74,9 +66,7 @@
     <tr>
       <td align="center">
         <h4>Reddit AI-Marketing Bot Tool</h4>
-        <a href="https://www.youtube.com/watch?v=Z11_ceId5HE">
-          <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Reddit AI-Marketing Bot Tool">
-        </a>
+        <img src="/api/placeholder/480/320" width="480" height="320" alt="Reddit AI-Marketing Bot Tool">
         <p>
           <img src="https://skillicons.dev/icons?i=react" height="40">
           <img src="https://skillicons.dev/icons?i=flask" height="40">
@@ -86,9 +76,7 @@
       </td>
       <td align="center">
         <h4>Loyal Pets Health</h4>
-        <a href="https://www.youtube.com/watch?v=Z11_ceId5HE">
-          <img src="https://img.youtube.com/vi/Z11_ceId5HE/0.jpg" width="480" height="320" alt="Loyal Pets Health">
-        </a>
+        <img src="/api/placeholder/480/320" width="480" height="320" alt="Loyal Pets Health">
         <p>
           <img src="https://skillicons.dev/icons?i=nextjs" height="40">
           <img src="https://skillicons.dev/icons?i=tailwind" height="40">
@@ -100,29 +88,24 @@
   </table>
 </div>
 
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <div style="flex: 1; padding-right: 20px; text-align: right; border-right: 1px solid #e0e0e0;">
-    <div>
+<table width="100%">
+  <tr>
+    <td width="50%" style="vertical-align: top; padding-right: 20px; border-right: 1px solid #e0e0e0;">
       <h3>🎨 Frontend Development</h3>
       <p>Creating engaging, user-centric interfaces</p>
-    </div>
-    <div>
+      
       <h3>⚙️ Backend Development</h3>
       <p>Optimizing systems for scalability & performance</p>
-    </div>
-    <div>
+      
       <h3>🗄️ Database Management</h3>
       <p>Ensuring secure & efficient data handling</p>
-    </div>
-  </div>
-  <div style="flex: 1; padding-left: 20px; text-align: left;">
-    <div>
+    </td>
+    <td width="50%" style="vertical-align: top; padding-left: 20px;">
       <h3>☁️ Cloud & DevOps</h3>
       <p>Deploying for high availability & reliability</p>
-    </div>
-    <div>
+      
       <h3>🤖 AI & Automation</h3>
       <p>Enhancing operations with AI-powered automation</p>
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
