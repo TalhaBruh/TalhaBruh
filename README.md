@@ -1,28 +1,21 @@
-# 🚀 Helping Non-Tech Founders Build Websites & MVPs
-## You'll be getting over 3+ years of Python & Django expertise on the table. Exceptionally skilled in building websites using React/NextJS, with Django, FastAPI or Flask as Backend.
-
-<div align="center">
-<h1>My Github Contributions</h1>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TalhaBruh/Github-ReadME/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/TalhaBruh/Github-ReadME/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/TalhaBruh/Github-ReadME/blob/output/github-contribution-grid-snake.svg" />
-  </picture></br>
-</div>
-
-<div align=center> 
-  <h2>MY DEVELOPMENT STATS</h2>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalhaBruh&theme=algolia">
-</div>
-
-## 📺 Featured Projects
-
+📺 Featured Projects
 <div align="center">
   <table>
     <tr>
+      <td align="center" colspan="2">
+        <h3>Sciencebridge</h3>
+      </td>
+    </tr>
+    <tr>
       <td align="center">
-        <h4>Sciencebridge</h4>
-        <img src="https://github.com/user-attachments/assets/f95a3fa7-f02c-4ac4-b958-0d90afa724cc" width="480" height="320" alt="Sciencebridge">
+        <img src="https://github.com/user-attachments/assets/bf6ad4e3-3954-4bd2-bb47-6cc4f064eda8" width="480" height="320" alt="Sciencebridge Technologies View">
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/f2f3b81b-7db3-4e29-8e84-26fcb651d943" width="480" height="320" alt="Sciencebridge Social Feed">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
         <p>
           <img src="https://skillicons.dev/icons?i=react" height="40">
           <img src="https://skillicons.dev/icons?i=nextjs" height="40">
@@ -30,9 +23,14 @@
         </p>
         <p><small>Generated revenue in (2025): $24,750</small></p>
       </td>
-      <td align="center">
-        <h4>Linen Track</h4>
-        <img src="https://github.com/user-attachments/assets/f95a3fa7-f02c-4ac4-b958-0d90afa724cc" width="480" height="320" alt="Linen Track">
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <h3>Linen Track</h3>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
         <p>
           <img src="https://skillicons.dev/icons?i=django" height="40">
           <img src="https://skillicons.dev/icons?i=python" height="40">
@@ -42,9 +40,12 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <h4>Equity Bound</h4>
-        <img src="https://github.com/user-attachments/assets/f95a3fa7-f02c-4ac4-b958-0d90afa724cc" width="480" height="320" alt="Equity Bound">
+      <td align="center" colspan="2">
+        <h3>Equity Bound</h3>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
         <p>
           <img src="https://skillicons.dev/icons?i=fastapi" height="40">
           <img src="https://skillicons.dev/icons?i=typescript" height="40">
@@ -52,9 +53,14 @@
         </p>
         <p><small>Generated revenue in (2025): $42,300</small></p>
       </td>
-      <td align="center">
-        <h4>NMBLIQ</h4>
-        <img src="https://github.com/user-attachments/assets/f95a3fa7-f02c-4ac4-b958-0d90afa724cc" width="480" height="320" alt="NMBLIQ">
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <h3>NMBLIQ</h3>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
         <p>
           <img src="https://skillicons.dev/icons?i=nodejs" height="40">
           <img src="https://skillicons.dev/icons?i=express" height="40">
@@ -64,9 +70,12 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <h4>Reddit AI-Marketing Bot Tool</h4>
-        <img src="https://github.com/user-attachments/assets/f95a3fa7-f02c-4ac4-b958-0d90afa724cc" width="480" height="320" alt="Reddit AI-Marketing Bot Tool">
+      <td align="center" colspan="2">
+        <h3>Reddit AI-Marketing Bot Tool</h3>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
         <p>
           <img src="https://skillicons.dev/icons?i=react" height="40">
           <img src="https://skillicons.dev/icons?i=flask" height="40">
@@ -74,9 +83,14 @@
         </p>
         <p><small>Generated revenue in (2023): $31,250</small></p>
       </td>
-      <td align="center">
-        <h4>Loyal Pets Health</h4>
-        <img src="https://github.com/user-attachments/assets/f95a3fa7-f02c-4ac4-b958-0d90afa724cc" width="480" height="320" alt="Loyal Pets Health">
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <h3>Loyal Pets Health</h3>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
         <p>
           <img src="https://skillicons.dev/icons?i=nextjs" height="40">
           <img src="https://skillicons.dev/icons?i=tailwind" height="40">
@@ -87,7 +101,6 @@
     </tr>
   </table>
 </div>
-
 <div align="center">
   <table>
     <tr>
