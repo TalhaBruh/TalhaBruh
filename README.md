@@ -88,24 +88,26 @@
   </table>
 </div>
 
-<table width="100%">
-  <tr>
-    <td width="50%" style="vertical-align: top; padding-right: 20px; border-right: 1px solid #e0e0e0;">
-      <h3>🎨 Frontend Development</h3>
-      <p>Creating engaging, user-centric interfaces</p>
-      
-      <h3>⚙️ Backend Development</h3>
-      <p>Optimizing systems for scalability & performance</p>
-      
-      <h3>🗄️ Database Management</h3>
-      <p>Ensuring secure & efficient data handling</p>
-    </td>
-    <td width="50%" style="vertical-align: top; padding-left: 20px;">
-      <h3>☁️ Cloud & DevOps</h3>
-      <p>Deploying for high availability & reliability</p>
-      
-      <h3>🤖 AI & Automation</h3>
-      <p>Enhancing operations with AI-powered automation</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <h3>🎨 Frontend Development</h3>
+        <p>Creating engaging, user-centric interfaces</p>
+        <br>
+        <h3>⚙️ Backend Development</h3>
+        <p>Optimizing systems for scalability & performance</p>
+        <br>
+        <h3>🗄️ Database Management</h3>
+        <p>Ensuring secure & efficient data handling</p>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <h3>☁️ Cloud & DevOps</h3>
+        <p>Deploying for high availability & reliability</p>
+        <br>
+        <h3>🤖 AI & Automation</h3>
+        <p>Enhancing operations with AI-powered automation</p>
+      </td>
+    </tr>
+  </table>
+</div>
