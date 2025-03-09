@@ -10,11 +10,6 @@
   </picture></br>
 </div>
 
-<div align=center> 
-  <h2>MY DEVELOPMENT STATS</h2>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalhaBruh&theme=algolia">
-</div>
-
 ## 📺 Featured Projects
 
 <div align="center">
@@ -136,4 +131,9 @@
       </td>
     </tr>
   </table>
+</div>
+
+<div align=center> 
+  <h2>MY DEVELOPMENT STATS</h2>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalhaBruh&theme=algolia">
 </div>
