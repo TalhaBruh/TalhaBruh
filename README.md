@@ -10,7 +10,7 @@
   </picture></br>
 </div>
 
-# Featured Products I have built recently for Startups
+# 💥 Featured Products I have built recently for Startups
 ## Science Bridge | SaaS Platform for Commercialization of Medical Patent IPs
 
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
