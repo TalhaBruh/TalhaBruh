@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-<h1>My Feeatured Projects</h1>
+<h1>My Featured Projects</h1>
 
 <div align="center">
   <table>
