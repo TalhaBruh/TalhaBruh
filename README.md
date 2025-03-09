@@ -1,5 +1,5 @@
-# 🚀 Helping Non-Tech Founders Build Websites & MVPs
-## You'll be getting over 3+ years of Python & Django expertise on the table. Exceptionally skilled in building websites using React/NextJS, with Django, FastAPI or Flask as Backend.
+# 🚀 Helping Non-Tech Founders Build Websites & MVPs  
+## You'll be getting over 3+ years of Python & Django expertise on the table. Exceptionally skilled in building websites using React/NextJS, with Django, FastAPI, or Flask as Backend.
 
 <div align="center">
 <h1>My Github Contributions</h1>
@@ -21,7 +21,7 @@
   <table>
     <tr>
       <td align="center" colspan="2">
-        <h3>Sciencebridge</h3>
+        <h3>Science Bridge | SaaS Platform for Commercialization of Medical Patent IPs</h3>
       </td>
     </tr>
     <tr>
@@ -39,12 +39,20 @@
           <img src="https://skillicons.dev/icons?i=nextjs" height="40">
           <img src="https://skillicons.dev/icons?i=tailwind" height="40">
         </p>
-        <p><small>Generated revenue in (2025): $24,750</small></p>
+        <p><strong style="font-size: 18px;">Generated revenue in (2025): **$24,750**</strong></p>
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <h3>Linen Track</h3>
+        <h3>LinenTrack | Cloud-Based Dry Cleaning POS with Customer & Driver App</h3>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/1e0d6ae8-1152-4ecc-b540-4fe6acd4c6da" width="360" height="240">
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/e3404837-1f69-4085-a962-83219a4999cf" width="360" height="240">
       </td>
     </tr>
     <tr>
@@ -54,12 +62,20 @@
           <img src="https://skillicons.dev/icons?i=python" height="40">
           <img src="https://skillicons.dev/icons?i=postgres" height="40">
         </p>
-        <p><small>Generated revenue in (2024): €18,500</small></p>
+        <p><strong style="font-size: 18px;">Generated revenue in (2024): **€18,500**</strong></p>
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <h3>Equity Bound</h3>
+        <h3>Equity Bound | AI Powered Ed-Fintech Platform for Long term Investing</h3>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/8be1c5fd-2ad0-4678-b367-cc8116a7557e" width="360" height="240">
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/efb35a74-5a2d-4f38-884a-52023e268126" width="360" height="240">
       </td>
     </tr>
     <tr>
@@ -69,42 +85,20 @@
           <img src="https://skillicons.dev/icons?i=typescript" height="40">
           <img src="https://skillicons.dev/icons?i=mongodb" height="40">
         </p>
-        <p><small>Generated revenue in (2025): $42,300</small></p>
+        <p><strong style="font-size: 18px;">Generated revenue in (2025): **£42,300**</strong></p>
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <h3>NMBLIQ</h3>
+        <h3>Option Lounge | Automated Investment Management SaaS</h3>
       </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
-        <p>
-          <img src="https://skillicons.dev/icons?i=nodejs" height="40">
-          <img src="https://skillicons.dev/icons?i=express" height="40">
-          <img src="https://skillicons.dev/icons?i=firebase" height="40">
-        </p>
-        <p><small>Generated revenue in (2024): $15,680</small></p>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/a37839ea-0913-4fed-9ca5-a32df7bf5ada" width="360" height="240">
       </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <h3>Reddit AI-Marketing Bot Tool</h3>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <p>
-          <img src="https://skillicons.dev/icons?i=react" height="40">
-          <img src="https://skillicons.dev/icons?i=flask" height="40">
-          <img src="https://skillicons.dev/icons?i=aws" height="40">
-        </p>
-        <p><small>Generated revenue in (2023): $31,250</small></p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <h3>Loyal Pets Health</h3>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/8a18f0e8-e0f8-42a4-9543-a9db6a9af61c" width="360" height="240">
       </td>
     </tr>
     <tr>
@@ -114,7 +108,7 @@
           <img src="https://skillicons.dev/icons?i=tailwind" height="40">
           <img src="https://skillicons.dev/icons?i=vercel" height="40">
         </p>
-        <p><small>Generated revenue in (2025): $19,875</small></p>
+        <p><strong style="font-size: 18px;">Generated revenue in (2025): **$19,875**</strong></p>
       </td>
     </tr>
   </table>
