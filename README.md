@@ -1,20 +1,3 @@
-# 🚀 Helping Non-Tech Founders Build Websites & MVPs  
-## You'll be getting over 3+ years of Python & Django expertise on the table. Exceptionally skilled in building websites using React/NextJS, with Django, FastAPI, or Flask as Backend.
-
-<div align="center">
-  <h1>My Github Contributions</h1>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TalhaBruh/Github-ReadME/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/TalhaBruh/Github-ReadME/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/TalhaBruh/Github-ReadME/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
-  </br>
-</div>
-
-<div align="center">
-  <h1>My Featured Projects</h1>
-</div>
-
 ## Science Bridge | SaaS Platform for Commercialization of Medical Patent IPs
 
 <table>
@@ -31,9 +14,11 @@
     <table width="100%">
       <tr>
         <td width="50%" align="left" valign="top">
-          <strong style="font-size: 18px;"> Revenue Generated - 2025: <b>$31,200</b></strong><br>
-          Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock<br>
-          Automated IP Commercialization Reduced Time-to-Market by 50%
+          <ul>
+            <li><strong>Revenue Generated - 2025: $31,200</strong></li>
+            <li>Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock</li>
+            <li>Automated IP Commercialization Reduced Time-to-Market by 50%</li>
+          </ul>
         </td>
         <td width="50%" align="center" valign="top">
           <strong>Technologies Used</strong>
@@ -50,30 +35,34 @@
 
 ## LinenTrack | Cloud-Based Dry Cleaning POS with Customer & Driver App
 
-<table>
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
 <tr>
-  <td align="center">
-    <img src="https://github.com/user-attachments/assets/1e0d6ae8-1152-4ecc-b540-4fe6acd4c6da" width="360" height="240">
+  <td align="center" width="50%" style="padding: 0;">
+    <img src="https://github.com/user-attachments/assets/1e0d6ae8-1152-4ecc-b540-4fe6acd4c6da" width="100%" style="max-width: 360px; height: auto;">
   </td>
-  <td align="center">
-    <img src="https://github.com/user-attachments/assets/e3404837-1f69-4085-a962-83219a4999cf" width="360" height="240">
+  <td align="center" width="50%" style="padding: 0;">
+    <img src="https://github.com/user-attachments/assets/e3404837-1f69-4085-a962-83219a4999cf" width="100%" style="max-width: 360px; height: auto;">
   </td>
 </tr>
 <tr>
   <td colspan="2">
-    <table width="100%">
+    <table width="100%" cellspacing="0" cellpadding="8" style="border-collapse: collapse;">
       <tr>
         <td width="50%" align="left" valign="top">
-          <strong style="font-size: 18px;"> Revenue Generated - 2025: <b>$31,200</b></strong><br>
-          Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock<br>
-          Automated IP Commercialization Reduced Time-to-Market by 50%
+          <ul style="margin: 0; padding-left: 20px;">
+            <li><strong>Revenue Generated - 2025: $31,200</strong></li>
+            <li>Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock</li>
+            <li>Automated IP Commercialization Reduced Time-to-Market by 50%</li>
+          </ul>
         </td>
         <td width="50%" align="center" valign="top">
-          <strong>Technologies Used</strong>
-          <br>
-          <img src="https://skillicons.dev/icons?i=react" height="40">
-          <img src="https://skillicons.dev/icons?i=nextjs" height="40">
-          <img src="https://skillicons.dev/icons?i=tailwind" height="40">
+          <strong>Technologies Used</strong><br>
+          <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0; max-width:100%;">
+            <img src="https://skillicons.dev/icons?i=react" height="40" style="margin:0;"><img src="https://skillicons.dev/icons?i=nextjs" height="40" style="margin:0;"><img src="https://skillicons.dev/icons?i=tailwind" height="40" style="margin:0;"><img src="https://skillicons.dev/icons?i=typescript" height="40" style="margin:0;"><img src="https://skillicons.dev/icons?i=firebase" height="40" style="margin:0;"><img src="https://skillicons.dev/icons?i=vercel" height="40" style="margin:0;"><img src="https://skillicons.dev/icons?i=docker" height="40" style="margin:0;">
+          </div>
+          <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0; max-width:100%;">
+            <img src="https://skillicons.dev/icons?i=kubernetes" height="40" style="margin:0;"><img src="https://skillicons.dev/icons?i=cloudflare" height="40" style="margin:0;"><img src="https://skillicons.dev/icons?i=googlecloud" height="40" style="margin:0;"><img src="https://skillicons.dev/icons?i=nodejs" height="40" style="margin:0;"><img src="https://skillicons.dev/icons?i=express" height="40" style="margin:0;"><img src="https://skillicons.dev/icons?i=git" height="40" style="margin:0;"><img src="https://skillicons.dev/icons?i=github" height="40" style="margin:0;">
+          </div>
         </td>
       </tr>
     </table>
@@ -97,9 +86,11 @@
     <table width="100%">
       <tr>
         <td width="50%" align="left" valign="top">
-          <strong style="font-size: 18px;"> Revenue Generated - 2025: <b>$31,200</b></strong><br>
-          Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock<br>
-          Automated IP Commercialization Reduced Time-to-Market by 50%
+          <ul>
+            <li><strong>Revenue Generated - 2025: $31,200</strong></li>
+            <li>Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock</li>
+            <li>Automated IP Commercialization Reduced Time-to-Market by 50%</li>
+          </ul>
         </td>
         <td width="50%" align="center" valign="top">
           <strong>Technologies Used</strong>
@@ -130,9 +121,11 @@
     <table width="100%">
       <tr>
         <td width="50%" align="left" valign="top">
-          <strong style="font-size: 18px;"> Revenue Generated - 2025: <b>$31,200</b></strong><br>
-          Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock<br>
-          Automated IP Commercialization Reduced Time-to-Market by 50%
+          <ul>
+            <li><strong>Revenue Generated - 2025: $31,200</strong></li>
+            <li>Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock</li>
+            <li>Automated IP Commercialization Reduced Time-to-Market by 50%</li>
+          </ul>
         </td>
         <td width="50%" align="center" valign="top">
           <strong>Technologies Used</strong>
@@ -163,9 +156,11 @@
     <table width="100%">
       <tr>
         <td width="50%" align="left" valign="top">
-          <strong style="font-size: 18px;"> Revenue Generated - 2025: <b>$31,200</b></strong><br>
-          Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock<br>
-          Automated IP Commercialization Reduced Time-to-Market by 50%
+          <ul>
+            <li><strong>Revenue Generated - 2025: $31,200</strong></li>
+            <li>Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock</li>
+            <li>Automated IP Commercialization Reduced Time-to-Market by 50%</li>
+          </ul>
         </td>
         <td width="50%" align="center" valign="top">
           <strong>Technologies Used</strong>
@@ -179,4 +174,3 @@
   </td>
 </tr>
 </table>
-
