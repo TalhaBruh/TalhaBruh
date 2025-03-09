@@ -1,3 +1,16 @@
+# 🚀 Helping Non-Tech Founders Build Websites & MVPs
+## You'll be getting over 3+ years of Python & Django expertise on the table. Exceptionally skilled in building websites using React/NextJS, with Django, FastAPI or Flask as Backend.
+
+<div align="center">
+<h1>My Github Contributions</h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TalhaBruh/Github-ReadME/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/TalhaBruh/Github-ReadME/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/TalhaBruh/Github-ReadME/blob/output/github-contribution-grid-snake.svg" />
+  </picture></br>
+</div>
+
+# Featured Products I have built recently for Startups
 ## Science Bridge | SaaS Platform for Commercialization of Medical Patent IPs
 
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
