@@ -31,7 +31,7 @@
     <table width="100%">
       <tr>
         <td width="50%" align="left" valign="top">
-          <strong style="font-size: 18px;">Generated revenue in (2025): <b>$31,200</b></strong><br>
+          <strong style="font-size: 18px;"> Revenue Generated - 2025: <b>$31,200</b></strong><br>
           Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock<br>
           Automated IP Commercialization Reduced Time-to-Market by 50%
         </td>
@@ -64,7 +64,7 @@
     <table width="100%">
       <tr>
         <td width="50%" align="left" valign="top">
-          <strong style="font-size: 18px;">Generated revenue in (2024): <b>€18,500</b></strong><br>
+          <strong style="font-size: 18px;">Revenue Generated - 2024: <b>€18,500</b></strong><br>
           Onboarded 300+ Dry Cleaning Businesses<br>
           98% Customer Retention Rate
         </td>
@@ -97,7 +97,7 @@
     <table width="100%">
       <tr>
         <td width="50%" align="left" valign="top">
-          <strong style="font-size: 18px;">Generated revenue in (2025): <b>£42,300</b></strong><br>
+          <strong style="font-size: 18px;">Revenue Generated - 2025: <b>£42,300</b></strong><br>
           AI Algorithm Improved Investment Returns by 22%<br>
           Automated 85% of Investment Decisions
         </td>
@@ -130,7 +130,7 @@
     <table width="100%">
       <tr>
         <td width="50%" align="left" valign="top">
-          <strong style="font-size: 18px;">Generated revenue in (2025): <b>$24,750</b></strong><br>
+          <strong style="font-size: 18px;">Revenue Generated - 2025: <b>$24,750</b></strong><br>
           User Growth: 120% YoY<br>
           Subscriptions Increased by 3x in 6 Months
         </td>
@@ -163,7 +163,7 @@
     <table width="100%">
       <tr>
         <td width="50%" align="left" valign="top">
-          <strong style="font-size: 18px;">Generated revenue in (2025): <b>$31,200</b></strong><br>
+          <strong style="font-size: 18px;">Revenue Generated - 2025: <b>$31,200</b></strong><br>
           Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock<br>
           Automated IP Commercialization Reduced Time-to-Market by 50%
         </td>
