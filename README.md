@@ -64,16 +64,16 @@
     <table width="100%">
       <tr>
         <td width="50%" align="left" valign="top">
-          <strong style="font-size: 18px;">Revenue Generated - 2024: <b>€18,500</b></strong><br>
-          Onboarded 300+ Dry Cleaning Businesses<br>
-          98% Customer Retention Rate
+          <strong style="font-size: 18px;"> Revenue Generated - 2025: <b>$31,200</b></strong><br>
+          Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock<br>
+          Automated IP Commercialization Reduced Time-to-Market by 50%
         </td>
         <td width="50%" align="center" valign="top">
           <strong>Technologies Used</strong>
           <br>
-          <img src="https://skillicons.dev/icons?i=django" height="40">
-          <img src="https://skillicons.dev/icons?i=python" height="40">
-          <img src="https://skillicons.dev/icons?i=postgres" height="40">
+          <img src="https://skillicons.dev/icons?i=react" height="40">
+          <img src="https://skillicons.dev/icons?i=nextjs" height="40">
+          <img src="https://skillicons.dev/icons?i=tailwind" height="40">
         </td>
       </tr>
     </table>
@@ -97,16 +97,16 @@
     <table width="100%">
       <tr>
         <td width="50%" align="left" valign="top">
-          <strong style="font-size: 18px;">Revenue Generated - 2025: <b>£42,300</b></strong><br>
-          AI Algorithm Improved Investment Returns by 22%<br>
-          Automated 85% of Investment Decisions
+          <strong style="font-size: 18px;"> Revenue Generated - 2025: <b>$31,200</b></strong><br>
+          Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock<br>
+          Automated IP Commercialization Reduced Time-to-Market by 50%
         </td>
         <td width="50%" align="center" valign="top">
           <strong>Technologies Used</strong>
           <br>
-          <img src="https://skillicons.dev/icons?i=fastapi" height="40">
-          <img src="https://skillicons.dev/icons?i=typescript" height="40">
-          <img src="https://skillicons.dev/icons?i=mongodb" height="40">
+          <img src="https://skillicons.dev/icons?i=react" height="40">
+          <img src="https://skillicons.dev/icons?i=nextjs" height="40">
+          <img src="https://skillicons.dev/icons?i=tailwind" height="40">
         </td>
       </tr>
     </table>
@@ -130,16 +130,16 @@
     <table width="100%">
       <tr>
         <td width="50%" align="left" valign="top">
-          <strong style="font-size: 18px;">Revenue Generated - 2025: <b>$24,750</b></strong><br>
-          User Growth: 120% YoY<br>
-          Subscriptions Increased by 3x in 6 Months
+          <strong style="font-size: 18px;"> Revenue Generated - 2025: <b>$31,200</b></strong><br>
+          Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock<br>
+          Automated IP Commercialization Reduced Time-to-Market by 50%
         </td>
         <td width="50%" align="center" valign="top">
           <strong>Technologies Used</strong>
           <br>
-          <img src="https://skillicons.dev/icons?i=fastapi" height="40">
-          <img src="https://skillicons.dev/icons?i=typescript" height="40">
-          <img src="https://skillicons.dev/icons?i=mongodb" height="40">
+          <img src="https://skillicons.dev/icons?i=react" height="40">
+          <img src="https://skillicons.dev/icons?i=nextjs" height="40">
+          <img src="https://skillicons.dev/icons?i=tailwind" height="40">
         </td>
       </tr>
     </table>
@@ -163,7 +163,7 @@
     <table width="100%">
       <tr>
         <td width="50%" align="left" valign="top">
-          <strong style="font-size: 18px;">Revenue Generated - 2025: <b>$31,200</b></strong><br>
+          <strong style="font-size: 18px;"> Revenue Generated - 2025: <b>$31,200</b></strong><br>
           Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock<br>
           Automated IP Commercialization Reduced Time-to-Market by 50%
         </td>
