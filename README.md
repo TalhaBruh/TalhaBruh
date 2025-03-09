@@ -1,31 +1,54 @@
 ## Science Bridge | SaaS Platform for Commercialization of Medical Patent IPs
 
-<table>
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
 <tr>
-  <td align="center">
-    <img src="https://github.com/user-attachments/assets/bf6ad4e3-3954-4bd2-bb47-6cc4f064eda8" width="360" height="240">
+  <td align="center" width="50%" style="padding: 0;">
+    <img src="https://github.com/user-attachments/assets/bf6ad4e3-3954-4bd2-bb47-6cc4f064eda8" width="100%" style="max-width: 360px; height: auto;">
   </td>
-  <td align="center">
-    <img src="https://github.com/user-attachments/assets/f2f3b81b-7db3-4e29-8e84-26fcb651d943" width="360" height="240">
+  <td align="center" width="50%" style="padding: 0;">
+    <img src="https://github.com/user-attachments/assets/f2f3b81b-7db3-4e29-8e84-26fcb651d943" width="100%" style="max-width: 360px; height: auto;">
   </td>
 </tr>
 <tr>
   <td colspan="2">
-    <table width="100%">
+    <table width="100%" cellspacing="0" cellpadding="8" style="border-collapse: collapse;">
       <tr>
         <td width="50%" align="left" valign="top">
-          <ul>
+          <ul style="margin: 0; padding-left: 20px;">
             <li><strong>Revenue Generated - 2025: $31,200</strong></li>
             <li>Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock</li>
             <li>Automated IP Commercialization Reduced Time-to-Market by 50%</li>
           </ul>
         </td>
         <td width="50%" align="center" valign="top">
-          <strong>Technologies Used</strong>
-          <br>
-          <img src="https://skillicons.dev/icons?i=react" height="40">
-          <img src="https://skillicons.dev/icons?i=nextjs" height="40">
-          <img src="https://skillicons.dev/icons?i=tailwind" height="40">
+          <strong>Technologies Used</strong><br>
+          <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0; max-width:100%;">
+            <img src="https://skillicons.dev/icons?i=react" height="40" style="margin:0;">
+            <img src="https://skillicons.dev/icons?i=nextjs" height="40" style="margin:0;">
+            <img src="https://skillicons.dev/icons?i=typescript" height="40" style="margin:0;">
+            <img src="https://skillicons.dev/icons?i=tailwind" height="40" style="margin:0;">
+            <img src="https://skillicons.dev/icons?i=mongodb" height="40" style="margin:0;">
+            <img src="https://skillicons.dev/icons?i=express" height="40" style="margin:0;">
+            <img src="https://skillicons.dev/icons?i=graphql" height="40" style="margin:0;">
+          </div>
+          <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0; max-width:100%;">
+            <img src="https://skillicons.dev/icons?i=redis" height="40" style="margin:0;">
+            <img src="https://skillicons.dev/icons?i=aws" height="40" style="margin:0;">
+            <img src="https://skillicons.dev/icons?i=docker" height="40" style="margin:0;">
+            <img src="https://skillicons.dev/icons?i=kubernetes" height="40" style="margin:0;">
+            <img src="https://skillicons.dev/icons?i=nginx" height="40" style="margin:0;">
+            <img src="https://skillicons.dev/icons?i=vercel" height="40" style="margin:0;">
+            <img src="https://skillicons.dev/icons?i=cloudflare" height="40" style="margin:0;">
+          </div>
+          <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0; max-width:100%;">
+            <img src="https://skillicons.dev/icons?i=python" height="40" style="margin:0;">
+            <img src="https://skillicons.dev/icons?i=fastapi" height="40" style="margin:0;">
+            <img src="https://skillicons.dev/icons?i=selenium" height="40" style="margin:0;">
+            <img src="https://skillicons.dev/icons?i=git" height="40" style="margin:0;">
+            <img src="https://skillicons.dev/icons?i=githubactions" height="40" style="margin:0;">
+            <img src="https://skillicons.dev/icons?i=postman" height="40" style="margin:0;">
+            <img src="https://skillicons.dev/icons?i=figma" height="40" style="margin:0;">
+          </div>
         </td>
       </tr>
     </table>
