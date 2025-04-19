@@ -63,6 +63,45 @@
 </tr>
 </table>
 
+## Equity Bound | AI Powered Stocks Analytics Platform for Long-Term Investing
+
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+<tr>
+  <td align="center" width="50%" style="padding: 0;">
+    <img src="https://github.com/user-attachments/assets/8be1c5fd-2ad0-4678-b367-cc8116a7557e" style="max-width: 100%; height: auto;">
+  </td>
+  <td align="center" width="50%" style="padding: 0;">
+    <img src="https://github.com/user-attachments/assets/efb35a74-5a2d-4f38-884a-52023e268126" style="max-width: 100%; height: auto;">
+  </td>
+</tr>
+<tr>
+  <td width="50%" align="left" valign="top" style="padding-top: 10px;">
+    <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
+      <li><strong>Revenue Generated - 2025: $31,200</strong></li>
+      <li>Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock</li>
+      <li>Automated IP Commercialization Reduced Time-to-Market by 50%</li>
+    </ul>
+  </td>
+  <td width="50%" align="center" valign="top" style="padding-top: 10px;">
+    <strong>Technologies Used</strong><br><br>
+    <p style="margin: 0; padding: 0;">
+      <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="Next.js">
+      <img src="https://skillicons.dev/icons?i=redux" height="35" alt="Redux">
+      <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="MongoDB">
+      <img src="https://skillicons.dev/icons?i=django" height="35" alt="Django">
+      <img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="FastAPI">
+      <img src="https://skillicons.dev/icons?i=nginx" height="35" alt="Nginx">
+    </p>
+    <p style="margin: 0; padding: 0;">
+      <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python">
+      <img src="https://skillicons.dev/icons?i=aws" height="35" alt="AWS">
+      <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="Vercel">
+      <img src="https://skillicons.dev/icons?i=figma" height="35" alt="Figma">
+    </p>
+  </td>
+</tr>
+</table>
+
 ## LinenTrack | Cloud-Based Dry Cleaning POS with Customer & Driver App
 
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
@@ -106,44 +145,6 @@
 </tr>
 </table>
 
-## Equity Bound | AI Powered Stocks Analytics Platform for Long-Term Investing
-
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-<tr>
-  <td align="center" width="50%" style="padding: 0;">
-    <img src="https://github.com/user-attachments/assets/8be1c5fd-2ad0-4678-b367-cc8116a7557e" style="max-width: 100%; height: auto;">
-  </td>
-  <td align="center" width="50%" style="padding: 0;">
-    <img src="https://github.com/user-attachments/assets/efb35a74-5a2d-4f38-884a-52023e268126" style="max-width: 100%; height: auto;">
-  </td>
-</tr>
-<tr>
-  <td width="50%" align="left" valign="top" style="padding-top: 10px;">
-    <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
-      <li><strong>Revenue Generated - 2025: $31,200</strong></li>
-      <li>Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock</li>
-      <li>Automated IP Commercialization Reduced Time-to-Market by 50%</li>
-    </ul>
-  </td>
-  <td width="50%" align="center" valign="top" style="padding-top: 10px;">
-    <strong>Technologies Used</strong><br><br>
-    <p style="margin: 0; padding: 0;">
-      <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="Next.js">
-      <img src="https://skillicons.dev/icons?i=redux" height="35" alt="Redux">
-      <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="MongoDB">
-      <img src="https://skillicons.dev/icons?i=django" height="35" alt="Django">
-      <img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="FastAPI">
-      <img src="https://skillicons.dev/icons?i=nginx" height="35" alt="Nginx">
-    </p>
-    <p style="margin: 0; padding: 0;">
-      <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python">
-      <img src="https://skillicons.dev/icons?i=aws" height="35" alt="AWS">
-      <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="Vercel">
-      <img src="https://skillicons.dev/icons?i=figma" height="35" alt="Figma">
-    </p>
-  </td>
-</tr>
-</table>
 
 ## NMBL-IQ | AI-Powered Gamified Stock News Social Platform
 
