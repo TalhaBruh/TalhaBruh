@@ -25,9 +25,10 @@
 <tr>
   <td width="50%" align="left" valign="top" style="padding-top: 10px;">
     <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
-      <li><strong>Revenue Generated - 2025: $31,200</strong></li>
+      <li><strong>Revenue Generated - 2025: $131,200</strong></li>
       <li>Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock</li>
-      <li>Automated IP Commercialization Reduced Time-to-Market by 50%</li>
+      <li>Funding Raised: $10M+ in grants and investments raised through platform collaboration and funding features.</li>
+      <li>200+ attorneys and legal professionals onboard, assisting in IP licensing and commercialization.</li>
     </ul>
   </td>
   <td width="50%" align="center" valign="top" style="padding-top: 10px;">
@@ -38,26 +39,16 @@
       <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="TypeScript">
       <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind">
       <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB">
-      <img src="https://skillicons.dev/icons?i=express" height="30" alt="Express">
       <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="GraphQL">
     </p>
     <p style="margin: 0; padding: 0;">
-      <img src="https://skillicons.dev/icons?i=redis" height="30" alt="Redis">
+      <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python">
       <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS">
       <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker">
       <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="Kubernetes">
-      <img src="https://skillicons.dev/icons?i=nginx" height="30" alt="Nginx">
+      <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="Selenium">
       <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="Vercel">
       <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="Cloudflare">
-    </p>
-    <p style="margin: 0; padding: 0;">
-      <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python">
-      <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="FastAPI">
-      <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="Selenium">
-      <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git">
-      <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="GitHub Actions">
-      <img src="https://skillicons.dev/icons?i=postman" height="30" alt="Postman">
-      <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma">
     </p>
   </td>
 </tr>
@@ -77,9 +68,11 @@
 <tr>
   <td width="50%" align="left" valign="top" style="padding-top: 10px;">
     <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
-      <li><strong>Revenue Generated - 2025: $31,200</strong></li>
-      <li>Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock</li>
-      <li>Automated IP Commercialization Reduced Time-to-Market by 50%</li>
+      <li><strong>Revenue Generated - 2025: $90,000</strong></li>
+      <li>Subscriptions Increased by 3× in 6 Months</li>
+      <li>User Growth: 150% YoY</li>
+      <li>Retention Rate: 92% of users maintain a subscription after 6 months</li>
+      <li>Platform Engagement: Over 80% of users engage with SMS reminders and AI chatbot features weekly</li>
     </ul>
   </td>
   <td width="50%" align="center" valign="top" style="padding-top: 10px;">
@@ -116,9 +109,11 @@
 <tr>
   <td width="50%" align="left" valign="top" style="padding-top: 10px;">
     <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
-      <li><strong>Revenue Generated - 2025: $31,200</strong></li>
-      <li>Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock</li>
-      <li>Automated IP Commercialization Reduced Time-to-Market by 50%</li>
+      <li><strong>Generated revenue in (2024): €178,000</strong></li>
+      <li>Onboarded 300+ dry cleaning businesses</li>
+      <li>Achieved 98% customer retention rate</li>
+      <li>Processed 10,000+ orders via AI‑powered RFID tracking</li>
+      <li>Reduced lost‑garment incidents by 90%</li>
     </ul>
   </td>
   <td width="50%" align="center" valign="top" style="padding-top: 10px;">
@@ -160,17 +155,21 @@
 <tr>
   <td width="50%" align="left" valign="top" style="padding-top: 10px;">
     <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
-      <li><strong>Revenue Generated - 2025: $31,200</strong></li>
-      <li>Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock</li>
-      <li>Automated IP Commercialization Reduced Time-to-Market by 50%</li>
+      <li><strong>Revenue Generated - 2025: $56,200</strong></li>
+      <li>Platform Engagement: Over 75% of users actively participate in gamified features daily</li>
+      <li>Giftable Subscriptions: A key driver for word-of-mouth marketing and customer acquisition</li>
+      <li>Perks and Early Access: The first 10,000 members contributed to a 40% increase in sign-ups</li>
     </ul>
   </td>
   <td width="50%" align="center" valign="top" style="padding-top: 10px;">
     <strong>Technologies Used</strong><br><br>
     <p style="margin: 0; padding: 0;">
-      <img src="https://skillicons.dev/icons?i=react" height="35" alt="React">
       <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="Next.js">
       <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="Tailwind">
+      <img src="https://skillicons.dev/icons?i=typescript" height="35" alt="TypeScript">
+      <img src="https://skillicons.dev/icons?i=firebase" height="35" alt="Mongodb">
+      <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="Vercel">
+      <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python">
     </p>
   </td>
 </tr>
@@ -190,9 +189,10 @@
 <tr>
   <td width="50%" align="left" valign="top" style="padding-top: 10px;">
     <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
-      <li><strong>Revenue Generated - 2025: $31,200</strong></li>
-      <li>Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock</li>
-      <li>Automated IP Commercialization Reduced Time-to-Market by 50%</li>
+      <li><strong>Revenue Generated - 2025: PKR 1.1M </strong></li>
+      <li>300+ Active Users</li>
+      <li>Investment Portfolio managed: PKR 3.6M</li>
+      <li>Trusted by 500+ Investors</li>
     </ul>
   </td>
   <td width="50%" align="center" valign="top" style="padding-top: 10px;">
@@ -201,6 +201,9 @@
       <img src="https://skillicons.dev/icons?i=react" height="35" alt="React">
       <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="Next.js">
       <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="Tailwind">
+      <img src="https://skillicons.dev/icons?i=firebase" height="35" alt="Firebase">
+      <img src="https://skillicons.dev/icons?i=aws" height="35" alt="AWS">
+      <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="Vercel">
     </p>
   </td>
 </tr>
