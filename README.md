@@ -11,48 +11,6 @@
 </div>
 
 # 💥 Featured Products I have built recently for Startups
-## Science Bridge | SaaS Platform for Commercialization of Medical Patent IPs
-
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-<tr>
-  <td align="center" width="50%" style="padding: 0;">
-    <img src="https://github.com/user-attachments/assets/bf6ad4e3-3954-4bd2-bb47-6cc4f064eda8" style="max-width: 100%; height: auto;">
-  </td>
-  <td align="center" width="50%" style="padding: 0;">
-    <img src="https://github.com/user-attachments/assets/f2f3b81b-7db3-4e29-8e84-26fcb651d943" style="max-width: 100%; height: auto;">
-  </td>
-</tr>
-<tr>
-  <td width="50%" align="left" valign="top" style="padding-top: 10px;">
-    <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
-      <li><strong>Revenue Generated - 2025: $131,200</strong></li>
-      <li>Active Users: 1,250+ Including Prestige Institutions like Harvard, MIT, UCLA, VCs & Angels from BlackRock</li>
-      <li>Funding Raised: $10M+ in grants and investments raised through platform collaboration and funding features.</li>
-      <li>200+ attorneys and legal professionals onboard, assisting in IP licensing and commercialization.</li>
-    </ul>
-  </td>
-  <td width="50%" align="center" valign="top" style="padding-top: 10px;">
-    <strong>Technologies Used</strong><br><br>
-    <p style="margin: 0; padding: 0;">
-      <img src="https://skillicons.dev/icons?i=react" height="30" alt="React">
-      <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="Next.js">
-      <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="TypeScript">
-      <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind">
-      <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB">
-      <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="GraphQL">
-    </p>
-    <p style="margin: 0; padding: 0;">
-      <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python">
-      <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS">
-      <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker">
-      <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="Kubernetes">
-      <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="Selenium">
-      <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="Vercel">
-      <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="Cloudflare">
-    </p>
-  </td>
-</tr>
-</table>
 
 ## Equity Bound | AI Powered Stocks Analytics Platform for Long-Term Investing
 
