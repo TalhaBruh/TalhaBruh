@@ -2,8 +2,6 @@
 
 <h3 align="center">Most founders play fast and loose. They bleed capital on bloated teams and Frankenstein tech. That is efficient suicide. I don't build websites. I architect digital monopolies. My systems act as invisible armies working 24/7, processing perfectly, and scaling without fatigue.</h3>
 
-# 💥 When we launch your system, we don't just take their market share. We give your competition sleepless nights.
-
 <div align="center">
 <h1>SYSTEMS THAT NEVER SLEEP!</h1>
 </div>
@@ -133,5 +131,7 @@
   </td>
 </tr>
 </table>
+
+# 💥 When we launch your system, we don't just take their market share. We give your competition sleepless nights.
 
 <h1 align="center"><b>GET ME BEFORE YOUR<br>COMPETITION DOES.</b></h1>
