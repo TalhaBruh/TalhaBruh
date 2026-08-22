@@ -107,20 +107,40 @@
   </td>
 </tr>
 <tr>
-  <td width="50%" align="left" valign="top" style="padding-top: 10px;">
-    <p><strong>Industry</strong><br>
-    B2B VA Marketplace / SaaS Platform</p>
-    <p><strong>Headquarters</strong><br>
-    Spokane, WA</p>
-    <p><strong>Website</strong><br>
-    <a href="https://getyoursidekick.com">getyoursidekick.com</a></p>
+  <td colspan="2" align="center" valign="top" style="padding-top: 14px;">
+    <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+    <tr>
+      <td width="33%" align="center" valign="top">
+        <strong>Industry</strong><br>
+        B2B VA Marketplace / SaaS Platform
+      </td>
+      <td width="33%" align="center" valign="top">
+        <strong>Headquarters</strong><br>
+        Spokane, WA
+      </td>
+      <td width="34%" align="center" valign="top">
+        <strong>Website</strong><br>
+        <a href="https://getyoursidekick.com">getyoursidekick.com</a>
+      </td>
+    </tr>
+    </table>
   </td>
-  <td width="50%" align="left" valign="top" style="padding-top: 10px;">
+</tr>
+<tr>
+  <td colspan="2" align="center" valign="top" style="padding-top: 14px;">
     <strong>What Our System Changed After:</strong>
+  </td>
+</tr>
+<tr>
+  <td width="50%" align="left" valign="top" style="padding-top: 6px;">
     <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
       <li>Clear journey from content to paid programs</li>
       <li>Automated payments, onboarding, and member access</li>
       <li>Private communities with controlled communication</li>
+    </ul>
+  </td>
+  <td width="50%" align="left" valign="top" style="padding-top: 6px;">
+    <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
       <li>Centralized member, program, and progress visibility</li>
       <li>One ecosystem for educating, upselling, and scaling</li>
     </ul>
