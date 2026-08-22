@@ -118,10 +118,8 @@
   <td width="50%" align="left" valign="top" style="padding-top: 10px;">
     <strong>What Our System Changed After:</strong>
     <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
-      <li>High-converting SideKick acquisition website</li>
       <li>Clear journey from content to paid programs</li>
       <li>Automated payments, onboarding, and member access</li>
-      <li>Dedicated cohort dashboards and learning journeys</li>
       <li>Private communities with controlled communication</li>
       <li>Centralized member, program, and progress visibility</li>
       <li>One ecosystem for educating, upselling, and scaling</li>
