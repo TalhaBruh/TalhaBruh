@@ -1,9 +1,9 @@
-<h1 align="center"><b>🚀 Your competition is sleeping. We aren't. I build the engines that make human labor obsolete.</b></h1>
+<h1 align="center"><b>Your competition is sleeping. We aren't. I build the engines that make human labor obsolete 💥</b></h1>
 
 <h3 align="center">Most founders play fast and loose. They bleed capital on bloated teams and Frankenstein tech. That is efficient suicide. I don't build websites. I architect digital monopolies. My systems act as invisible armies working 24/7, processing perfectly, and scaling without fatigue.</h3>
 
 <div align="center">
-<h1>SYSTEMS THAT NEVER SLEEP!</h1>
+<h1>SYSTEMS THAT NEVER SLEEP!🚀</h1>
 </div>
 
 ## How We Turned True Path's Fragmented Brokerage Operations Into One Intelligent Growth Platform
@@ -166,6 +166,6 @@
 </tr>
 </table>
 
-# 💥 When we launch your system, we don't just take their market share. We give your competition sleepless nights.
+# When we launch your system, we don't just take their market share. We give your competition sleepless nights.
 
 <h1 align="center"><b>GET ME BEFORE YOUR<br>COMPETITION DOES.</b></h1>
