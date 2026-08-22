@@ -1,16 +1,14 @@
-# 🚀 Helping Non-Tech Founders Build Websites & MVPs
-## You'll be getting over 3+ years of Python & Django expertise on the table. Exceptionally skilled in building websites using React/NextJS, with Django, FastAPI or Flask as Backend.
+<h1 align="center"><b>🚀 Your competition is sleeping. We aren't. I build the engines that make human labor obsolete.</b></h1>
+
+<h3 align="center">Most founders play fast and loose. They bleed capital on bloated teams and Frankenstein tech. That is efficient suicide.</h3>
+
+<h3 align="center">I don't build websites. I architect digital monopolies. My systems act as invisible armies working 24/7, processing perfectly, and scaling without fatigue.</h3>
 
 <div align="center">
-<h1>My Github Contributions</h1>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TalhaBruh/Github-ReadME/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/TalhaBruh/Github-ReadME/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/TalhaBruh/Github-ReadME/blob/output/github-contribution-grid-snake.svg" />
-  </picture></br>
+<h1>SYSTEMS THAT NEVER SLEEP!</h1>
 </div>
 
-# 💥 Featured Products I have built recently for Startups
+# 💥 When we launch your system, we don't just take their market share. We give your competition sleepless nights.
 
 ## Equity Bound | AI Powered Stocks Analytics Platform for Long-Term Investing
 
@@ -99,70 +97,39 @@
 </table>
 
 
-## NMBL-IQ | AI-Powered Gamified Stock News Social Platform
+## How I turned Sidekick's 90-min hiring bottleneck into a 5-min placement engine
 
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
 <tr>
   <td align="center" width="50%" style="padding: 0;">
-    <img src="https://github.com/user-attachments/assets/b88bfd50-6d83-450d-ad14-b1631adcf040" style="max-width: 100%; height: auto;">
+    <img src="https://raw.githubusercontent.com/TalhaBruh/Github-ReadME/main/Case%20Study%20Sidekck%20Cover.png" style="max-width: 100%; height: auto;" alt="Sidekick Case Study Cover">
   </td>
   <td align="center" width="50%" style="padding: 0;">
-    <img src="https://github.com/user-attachments/assets/3fd6e8fa-ec6d-41b6-ac4e-c08173269e86" style="max-width: 100%; height: auto;">
+    <img src="https://raw.githubusercontent.com/TalhaBruh/Github-ReadME/main/Case%20Study%20Sidekck.png" style="max-width: 100%; height: auto;" alt="Sidekick Case Study">
   </td>
 </tr>
 <tr>
   <td width="50%" align="left" valign="top" style="padding-top: 10px;">
-    <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
-      <li><strong>Revenue Generated - 2025: $56,200</strong></li>
-      <li>Platform Engagement: Over 75% of users actively participate in gamified features daily</li>
-      <li>Giftable Subscriptions: A key driver for word-of-mouth marketing and customer acquisition</li>
-      <li>Perks and Early Access: The first 10,000 members contributed to a 40% increase in sign-ups</li>
-    </ul>
+    <p><strong>Industry</strong><br>
+    B2B VA Marketplace / SaaS Platform</p>
+    <p><strong>Headquarters</strong><br>
+    Spokane, WA</p>
+    <p><strong>Website</strong><br>
+    <a href="https://getyoursidekick.com">getyoursidekick.com</a></p>
   </td>
-  <td width="50%" align="center" valign="top" style="padding-top: 10px;">
-    <strong>Technologies Used</strong><br><br>
-    <p style="margin: 0; padding: 0;">
-      <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="Next.js">
-      <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="Tailwind">
-      <img src="https://skillicons.dev/icons?i=typescript" height="35" alt="TypeScript">
-      <img src="https://skillicons.dev/icons?i=firebase" height="35" alt="Mongodb">
-      <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="Vercel">
-      <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python">
-    </p>
-  </td>
-</tr>
-</table>
-
-## Option Lounge | Automated Investment Management Platform
-
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-<tr>
-  <td align="center" width="50%" style="padding: 0;">
-    <img src="https://github.com/user-attachments/assets/a37839ea-0913-4fed-9ca5-a32df7bf5ada" style="max-width: 100%; height: auto;">
-  </td>
-  <td align="center" width="50%" style="padding: 0;">
-    <img src="https://github.com/user-attachments/assets/8a18f0e8-e0f8-42a4-9543-a9db6a9af61c" style="max-width: 100%; height: auto;">
-  </td>
-</tr>
-<tr>
   <td width="50%" align="left" valign="top" style="padding-top: 10px;">
+    <strong>What Our System Changed After:</strong>
     <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
-      <li><strong>Revenue Generated - 2025: PKR 1.1M </strong></li>
-      <li>300+ Active Users</li>
-      <li>Investment Portfolio managed: PKR 3.6M</li>
-      <li>Trusted by 500+ Investors</li>
+      <li>High-converting SideKick acquisition website</li>
+      <li>Clear journey from content to paid programs</li>
+      <li>Automated payments, onboarding, and member access</li>
+      <li>Dedicated cohort dashboards and learning journeys</li>
+      <li>Private communities with controlled communication</li>
+      <li>Centralized member, program, and progress visibility</li>
+      <li>One ecosystem for educating, upselling, and scaling</li>
     </ul>
-  </td>
-  <td width="50%" align="center" valign="top" style="padding-top: 10px;">
-    <strong>Technologies Used</strong><br><br>
-    <p style="margin: 0; padding: 0;">
-      <img src="https://skillicons.dev/icons?i=react" height="35" alt="React">
-      <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="Next.js">
-      <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="Tailwind">
-      <img src="https://skillicons.dev/icons?i=firebase" height="35" alt="Firebase">
-      <img src="https://skillicons.dev/icons?i=aws" height="35" alt="AWS">
-      <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="Vercel">
-    </p>
   </td>
 </tr>
 </table>
+
+<h1 align="center"><b>GET ME BEFORE YOUR<br>COMPETITION DOES.</b></h1>
