@@ -6,8 +6,6 @@
 <h1>SYSTEMS THAT NEVER SLEEP!🚀</h1>
 </div>
 
-## How We Turned True Path's Fragmented Brokerage Operations Into One Intelligent Growth Platform
-
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
 <tr>
   <td align="center" width="50%" style="padding: 0;">
@@ -15,6 +13,11 @@
   </td>
   <td align="center" width="50%" style="padding: 0;">
     <img src="https://raw.githubusercontent.com/TalhaBruh/TalhaBruh/main/Case%20Study%20Truepath.png" style="max-width: 100%; height: auto;" alt="True Path Case Study">
+  </td>
+</tr>
+<tr>
+  <td colspan="2" align="center" valign="top">
+    <h2>How We Turned True Path's Fragmented Brokerage Operations Into One Intelligent Growth Platform</h2>
   </td>
 </tr>
 <tr>
@@ -46,8 +49,6 @@
 </tr>
 </table>
 
-## How we turned Clayton's firearms training vision into one assessment-led growth platform
-
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
 <tr>
   <td align="center" width="50%" style="padding: 0;">
@@ -55,6 +56,11 @@
   </td>
   <td align="center" width="50%" style="padding: 0;">
     <img src="https://raw.githubusercontent.com/TalhaBruh/TalhaBruh/main/Case%20Study%20Genesis.png" style="max-width: 100%; height: auto;" alt="Genesis Rising Case Study">
+  </td>
+</tr>
+<tr>
+  <td colspan="2" align="center" valign="top">
+    <h2>How we turned Clayton's firearms training vision into one assessment-led growth platform</h2>
   </td>
 </tr>
 <tr>
@@ -86,8 +92,6 @@
 </tr>
 </table>
 
-## How I turned Sidekick's 90-min hiring bottleneck into a 5-min placement engine
-
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
 <tr>
   <td align="center" width="50%" style="padding: 0;">
@@ -95,6 +99,11 @@
   </td>
   <td align="center" width="50%" style="padding: 0;">
     <img src="https://raw.githubusercontent.com/TalhaBruh/TalhaBruh/main/Case%20Study%20Sidekck.png" style="max-width: 100%; height: auto;" alt="Sidekick Case Study">
+  </td>
+</tr>
+<tr>
+  <td colspan="2" align="center" valign="top">
+    <h2>How I turned Sidekick's 90-min hiring bottleneck into a 5-min placement engine</h2>
   </td>
 </tr>
 <tr>
@@ -126,8 +135,6 @@
 </tr>
 </table>
 
-## How I turned Maddie's scattered coaching tools into one revenue-ready platform
-
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
 <tr>
   <td align="center" width="50%" style="padding: 0;">
@@ -135,6 +142,11 @@
   </td>
   <td align="center" width="50%" style="padding: 0;">
     <img src="https://raw.githubusercontent.com/TalhaBruh/TalhaBruh/main/Case%20Study%20Madison.png" style="max-width: 100%; height: auto;" alt="Maddie Case Study">
+  </td>
+</tr>
+<tr>
+  <td colspan="2" align="center" valign="top">
+    <h2>How I turned Maddie's scattered coaching tools into one revenue-ready platform</h2>
   </td>
 </tr>
 <tr>
