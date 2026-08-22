@@ -197,7 +197,7 @@
 
 ### 💼 Hire Me
 
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white&labelColor=6FDA44)](https://www.upwork.com/freelancers/~014da56c8bff64d732?mp_source=share)
+<a href="https://www.upwork.com/freelancers/~014da56c8bff64d732?mp_source=share"><img src="https://raw.githubusercontent.com/TalhaBruh/TalhaBruh/main/upwork.png" width="50" height="50" alt="Upwork" /></a>
 
 <br />
 
