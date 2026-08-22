@@ -46,51 +46,45 @@
 </tr>
 </table>
 
-## LinenTrack | Cloud-Based Dry Cleaning POS with Customer & Driver App
+## How we turned Clayton's firearms training vision into one assessment-led growth platform
 
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
 <tr>
   <td align="center" width="50%" style="padding: 0;">
-    <img src="https://github.com/user-attachments/assets/1e0d6ae8-1152-4ecc-b540-4fe6acd4c6da" style="max-width: 100%; height: auto;">
+    <img src="https://raw.githubusercontent.com/TalhaBruh/TalhaBruh/main/Case%20Study%20Genesis%20Cover.png" style="max-width: 100%; height: auto;" alt="Genesis Rising Case Study Cover">
   </td>
   <td align="center" width="50%" style="padding: 0;">
-    <img src="https://github.com/user-attachments/assets/e3404837-1f69-4085-a962-83219a4999cf" style="max-width: 100%; height: auto;">
+    <img src="https://raw.githubusercontent.com/TalhaBruh/TalhaBruh/main/Case%20Study%20Genesis.png" style="max-width: 100%; height: auto;" alt="Genesis Rising Case Study">
   </td>
 </tr>
 <tr>
-  <td width="50%" align="left" valign="top" style="padding-top: 10px;">
+  <td colspan="2" align="center" valign="top">
+    <strong>Industry</strong> &nbsp;Firearms Training / Tactical Education / Events &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <strong>Headquarters</strong> &nbsp;San Antonio, Texas &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <strong>Website</strong> &nbsp;<a href="https://www.genesisrising.training">www.genesisrising.training</a>
+  </td>
+</tr>
+<tr>
+  <td width="50%" align="left" valign="top">
+    <strong>How the Business Worked Previously:</strong>
     <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
-      <li><strong>Generated revenue in (2024): €178,000</strong></li>
-      <li>Onboarded 300+ dry cleaning businesses</li>
-      <li>Achieved 98% customer retention rate</li>
-      <li>Processed 10,000+ orders via AI‑powered RFID tracking</li>
-      <li>Reduced lost‑garment incidents by 90%</li>
+      <li>No structured assessment or qualification process</li>
+      <li>Limited insight into each prospect's readiness</li>
+      <li>Booking and payments required manual coordination</li>
+      <li>Training resources shared across disconnected tools</li>
+      <li>Follow-up depended heavily on Clayton's availability</li>
     </ul>
   </td>
-  <td width="50%" align="center" valign="top" style="padding-top: 10px;">
-    <strong>Technologies Used</strong><br><br>
-    <p style="margin: 0; padding: 0;">
-      <img src="https://skillicons.dev/icons?i=react" height="35" alt="React">
-      <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="Next.js">
-      <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="Tailwind">
-      <img src="https://skillicons.dev/icons?i=typescript" height="35" alt="TypeScript">
-      <img src="https://skillicons.dev/icons?i=firebase" height="35" alt="Firebase">
-      <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="Vercel">
-      <img src="https://skillicons.dev/icons?i=docker" height="35" alt="Docker">
-    </p>
-    <p style="margin: 0; padding: 0;">
-      <img src="https://skillicons.dev/icons?i=kubernetes" height="35" alt="Kubernetes">
-      <img src="https://skillicons.dev/icons?i=cloudflare" height="35" alt="Cloudflare">
-      <img src="https://skillicons.dev/icons?i=googlecloud" height="35" alt="Google Cloud">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="Node.js">
-      <img src="https://skillicons.dev/icons?i=express" height="35" alt="Express">
-      <img src="https://skillicons.dev/icons?i=git" height="35" alt="Git">
-      <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub">
-    </p>
+  <td width="50%" align="left" valign="top">
+    <strong>What The New System Changed:</strong>
+    <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
+      <li>Assessment-led lead capture and qualification</li>
+      <li>Automated CRM scoring, tagging, and lead routing</li>
+      <li>AI-powered nurture and readiness tracking</li>
+      <li>Prepaid group and premium 1:1 booking</li>
+      <li>Centralized visibility across leads, trainees, and events</li>
+    </ul>
   </td>
 </tr>
 </table>
-
 
 ## How I turned Sidekick's 90-min hiring bottleneck into a 5-min placement engine
 
