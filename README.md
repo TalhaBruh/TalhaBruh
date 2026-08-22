@@ -102,10 +102,10 @@
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
 <tr>
   <td align="center" width="50%" style="padding: 0;">
-    <img src="https://raw.githubusercontent.com/TalhaBruh/Github-ReadME/main/Case%20Study%20Sidekck%20Cover.png" style="max-width: 100%; height: auto;" alt="Sidekick Case Study Cover">
+    <img src="https://raw.githubusercontent.com/TalhaBruh/TalhaBruh/main/Case%20Study%20Sidekck%20Cover.png" style="max-width: 100%; height: auto;" alt="Sidekick Case Study Cover">
   </td>
   <td align="center" width="50%" style="padding: 0;">
-    <img src="https://raw.githubusercontent.com/TalhaBruh/Github-ReadME/main/Case%20Study%20Sidekck.png" style="max-width: 100%; height: auto;" alt="Sidekick Case Study">
+    <img src="https://raw.githubusercontent.com/TalhaBruh/TalhaBruh/main/Case%20Study%20Sidekck.png" style="max-width: 100%; height: auto;" alt="Sidekick Case Study">
   </td>
 </tr>
 <tr>
