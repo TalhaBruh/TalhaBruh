@@ -132,6 +132,46 @@
 </tr>
 </table>
 
+## How I turned Maddie's scattered coaching tools into one revenue-ready platform
+
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+<tr>
+  <td align="center" width="50%" style="padding: 0;">
+    <img src="https://raw.githubusercontent.com/TalhaBruh/TalhaBruh/main/Case%20Study%20Madison%20Cover.png" style="max-width: 100%; height: auto;" alt="Maddie Case Study Cover">
+  </td>
+  <td align="center" width="50%" style="padding: 0;">
+    <img src="https://raw.githubusercontent.com/TalhaBruh/TalhaBruh/main/Case%20Study%20Madison.png" style="max-width: 100%; height: auto;" alt="Maddie Case Study">
+  </td>
+</tr>
+<tr>
+  <td colspan="2" align="center" valign="top">
+    <strong>Industry</strong> &nbsp;Fitness Coaching / Wellness &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <strong>Headquarters</strong> &nbsp;Spokane, WA &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <strong>Website</strong> &nbsp;<a href="https://www.coachingwithmaddie.com">www.coachingwithmaddie.com</a>
+  </td>
+</tr>
+<tr>
+  <td width="50%" align="left" valign="top">
+    <strong>How the Business Worked Previously:</strong>
+    <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
+      <li>Scattered coaching tools and PDFs</li>
+      <li>Manual onboarding and follow-up</li>
+      <li>Weak path from audience to purchase</li>
+      <li>Payments, programs, and resources handled separately</li>
+      <li>No central view of clients, offers, or operations</li>
+    </ul>
+  </td>
+  <td width="50%" align="left" valign="top">
+    <strong>What Our System Changed After:</strong>
+    <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
+      <li>High-converting acquisition website</li>
+      <li>Stripe checkout with automated access flow</li>
+      <li>Centralized client portal</li>
+      <li>Structured academy and meal library</li>
+      <li>Built-in messaging and client communication</li>
+    </ul>
+  </td>
+</tr>
+</table>
+
 # 💥 When we launch your system, we don't just take their market share. We give your competition sleepless nights.
 
 <h1 align="center"><b>GET ME BEFORE YOUR<br>COMPETITION DOES.</b></h1>
