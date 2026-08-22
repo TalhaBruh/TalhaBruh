@@ -181,4 +181,28 @@
 
 # When we launch your system, we don't just take their market share. We give your competition sleepless nights.
 
-<h1 align="center"><b>GET ME BEFORE YOUR<br>COMPETITION DOES.</b></h1>
+<div align="center">
+
+---
+
+<h1><b>GET ME BEFORE YOUR COMPETITION DOES!</b></h1>
+
+[![Email](https://img.shields.io/badge/📧_Email-Let's_Connect-D14836?style=for-the-badge)](mailto:talhahussain349@gmail.com)
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/talha-shah-60726a221/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/TalhaBruh)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:talhahussain349@gmail.com)
+
+### 💼 Hire Me
+
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white&labelColor=6FDA44)](https://www.upwork.com/freelancers/~014da56c8bff64d732?mp_source=share)
+
+<br />
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TalhaBruh.TalhaBruh)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
