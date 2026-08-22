@@ -1,5 +1,5 @@
 <!-- Animated banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Your%20competition%20is%20sleeping, We%20aren%27t.%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=I%20build%20the%20engines%20that%20make%20human%20labor%20obsolete%20%F0%9F%92%A5&descAlignY=51&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Your%20competition%20is%20sleeping%2C%20We%20aren%27t.&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=I%20build%20the%20engines%20that%20make%20human%20labor%20obsolete%20%F0%9F%92%A5&descAlignY=51&descAlign=50"/>
 
 <h3 align="center">Most founders play fast and loose. They bleed capital on bloated teams and Frankenstein tech. That is efficient suicide. I don't build websites. I architect digital monopolies. My systems act as invisible armies working 24/7, processing perfectly, and scaling without fatigue.</h3>
 
