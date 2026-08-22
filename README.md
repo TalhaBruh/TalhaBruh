@@ -21,7 +21,7 @@
 </tr>
 <tr>
   <td colspan="2" align="center" valign="top">
-    <strong>Industry</strong> &nbsp;Employee Benefits Brokerage / Insurance Services &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <strong>Headquarters</strong> &nbsp;Spokane, Washington &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <strong>Website</strong> &nbsp;<a href="https://truepathusa.com">truepathusa.com</a>
+    <strong>Industry</strong> &nbsp;Employee Benefits Brokerage &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <strong>Headquarters</strong> &nbsp;Spokane, Washington &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <strong>Website</strong> &nbsp;<a href="https://truepathusa.com">truepathusa.com</a>
   </td>
 </tr>
 <tr>
