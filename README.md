@@ -8,43 +8,42 @@
 <h1>SYSTEMS THAT NEVER SLEEP!</h1>
 </div>
 
-## Equity Bound | AI Powered Stocks Analytics Platform for Long-Term Investing
+## How We Turned True Path's Fragmented Brokerage Operations Into One Intelligent Growth Platform
 
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
 <tr>
   <td align="center" width="50%" style="padding: 0;">
-    <img src="https://github.com/user-attachments/assets/8be1c5fd-2ad0-4678-b367-cc8116a7557e" style="max-width: 100%; height: auto;">
+    <img src="https://raw.githubusercontent.com/TalhaBruh/TalhaBruh/main/Case%20Study%20Truepath%20Cover.png" style="max-width: 100%; height: auto;" alt="True Path Case Study Cover">
   </td>
   <td align="center" width="50%" style="padding: 0;">
-    <img src="https://github.com/user-attachments/assets/efb35a74-5a2d-4f38-884a-52023e268126" style="max-width: 100%; height: auto;">
+    <img src="https://raw.githubusercontent.com/TalhaBruh/TalhaBruh/main/Case%20Study%20Truepath.png" style="max-width: 100%; height: auto;" alt="True Path Case Study">
   </td>
 </tr>
 <tr>
-  <td width="50%" align="left" valign="top" style="padding-top: 10px;">
+  <td colspan="2" align="center" valign="top">
+    <strong>Industry</strong> &nbsp;Employee Benefits Brokerage / Insurance Services &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <strong>Headquarters</strong> &nbsp;Spokane, Washington &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <strong>Website</strong> &nbsp;<a href="https://truepathusa.com">truepathusa.com</a>
+  </td>
+</tr>
+<tr>
+  <td width="50%" align="left" valign="top">
+    <strong>How the Business Worked Previously:</strong>
     <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
-      <li><strong>Revenue Generated - 2025: $90,000</strong></li>
-      <li>Subscriptions Increased by 3× in 6 Months</li>
-      <li>User Growth: 150% YoY</li>
-      <li>Retention Rate: 92% of users maintain a subscription after 6 months</li>
-      <li>Platform Engagement: Over 80% of users engage with SMS reminders and AI chatbot features weekly</li>
+      <li>Multiple CRMs and carrier systems</li>
+      <li>Manual commission reconciliation</li>
+      <li>Repeated census copy-and-paste</li>
+      <li>Documents scattered across SharePoint and email</li>
+      <li>Renewal dates monitored manually</li>
     </ul>
   </td>
-  <td width="50%" align="center" valign="top" style="padding-top: 10px;">
-    <strong>Technologies Used</strong><br><br>
-    <p style="margin: 0; padding: 0;">
-      <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="Next.js">
-      <img src="https://skillicons.dev/icons?i=redux" height="35" alt="Redux">
-      <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="MongoDB">
-      <img src="https://skillicons.dev/icons?i=django" height="35" alt="Django">
-      <img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="FastAPI">
-      <img src="https://skillicons.dev/icons?i=nginx" height="35" alt="Nginx">
-    </p>
-    <p style="margin: 0; padding: 0;">
-      <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python">
-      <img src="https://skillicons.dev/icons?i=aws" height="35" alt="AWS">
-      <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="Vercel">
-      <img src="https://skillicons.dev/icons?i=figma" height="35" alt="Figma">
-    </p>
+  <td width="50%" align="left" valign="top">
+    <strong>What Our System Changed:</strong>
+    <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
+      <li>One centralized client and policy record</li>
+      <li>AI-assisted commission processing</li>
+      <li>Automated carrier census generation</li>
+      <li>Organized carrier document libraries</li>
+      <li>Automated 90, 60, and 30-day renewal alerts</li>
+    </ul>
   </td>
 </tr>
 </table>
