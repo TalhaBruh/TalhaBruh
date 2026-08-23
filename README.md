@@ -191,10 +191,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/talha-shah-60726a221/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/TalhaBruh)
 <a href="https://www.upwork.com/freelancers/~014da56c8bff64d732?mp_source=share"><img src="https://raw.githubusercontent.com/TalhaBruh/TalhaBruh/main/upwork.png" height="28" alt="Upwork" /></a>
-
-<br />
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TalhaBruh.TalhaBruh)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TalhaBruh.TalhaBruh&style=for-the-badge)
 
 </div>
 
