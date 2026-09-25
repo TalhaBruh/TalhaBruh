@@ -8,48 +8,7 @@
 <h1>SYSTEMS THAT NEVER SLEEP!🚀</h1>
 </div>
 
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-<tr>
-  <td align="center" width="50%" style="padding: 0;">
-    <img src="https://raw.githubusercontent.com/TalhaBruh/TalhaBruh/main/Case%20Study%20Truepath%20Cover.png" style="max-width: 100%; height: auto;" alt="True Path Case Study Cover">
-  </td>
-  <td align="center" width="50%" style="padding: 0;">
-    <img src="https://raw.githubusercontent.com/TalhaBruh/TalhaBruh/main/Case%20Study%20Truepath.png" style="max-width: 100%; height: auto;" alt="True Path Case Study">
-  </td>
-</tr>
-<tr>
-  <td colspan="2" align="center" valign="top">
-    <h2>How We Turned True Path's Fragmented Brokerage Operations Into One Intelligent Growth Platform</h2>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" align="center" valign="top">
-    <strong>Industry</strong> &nbsp;Employee Benefits Brokerage &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <strong>Headquarters</strong> &nbsp;Spokane, Washington &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <strong>Website</strong> &nbsp;<a href="https://truepathusa.com">truepathusa.com</a>
-  </td>
-</tr>
-<tr>
-  <td width="50%" align="left" valign="top">
-    <strong>How the Business Worked Previously:</strong>
-    <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
-      <li>Multiple CRMs and carrier systems</li>
-      <li>Manual commission reconciliation</li>
-      <li>Repeated census copy-and-paste</li>
-      <li>Documents scattered across SharePoint and email</li>
-      <li>Renewal dates monitored manually</li>
-    </ul>
-  </td>
-  <td width="50%" align="left" valign="top">
-    <strong>What Our System Changed:</strong>
-    <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
-      <li>One centralized client and policy record</li>
-      <li>AI-assisted commission processing</li>
-      <li>Automated carrier census generation</li>
-      <li>Organized carrier document libraries</li>
-      <li>Automated 90, 60, and 30-day renewal alerts</li>
-    </ul>
-  </td>
-</tr>
-</table>
+
 
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
 <tr>
